@@ -1,0 +1,301 @@
+2019/09/26 14:54:51 >> Upload pdf
+2019/09/26 14:55:49 >> Upload pdf
+2019/09/26 14:55:49 >> File created
+2019/09/26 15:08:40 >> Registrazione utente
+2019/09/26 15:14:52 >> Registrazione utente
+2019/09/26 15:14:52 >> Registrazione utente
+2019/09/26 15:16:39 >> Registrazione utente
+2019/09/26 15:16:39 >> Registrazione utente
+2019/09/26 15:19:52 >> Registrazione utente
+2019/09/26 15:19:52 >> Registrazione utente
+2019/09/26 15:20:41 >> Registrazione utente
+2019/09/26 15:20:41 >> Registrazione utente
+2019/09/26 15:24:57 >> Upload pdf
+2019/09/26 15:24:57 >> Inserted Menu into MongoDB
+2019/09/26 15:24:57 >> File created
+2019/09/26 15:25:02 >> Tentativo Login
+2019/09/26 15:26:30 >> Tentativo Login
+2019/09/26 15:28:56 >> Registrazione utente
+2019/09/26 15:29:00 >> Tentativo Login
+2019/09/26 15:29:06 >> Tentativo Login
+2019/09/26 15:29:07 >> Tentativo Login
+2019/09/26 15:29:10 >> Tentativo Login
+2019/09/26 15:29:16 >> Tentativo Login
+2019/09/26 15:29:19 >> Tentativo Login
+2019/09/26 15:30:44 >> Tentativo Login
+2019/09/26 15:31:10 >> Registrazione utente
+2019/09/26 15:34:00 >> Registrazione utente
+2019/09/26 15:34:01 >> Registrazione utente
+2019/09/26 15:34:04 >> Registrazione utente
+2019/09/26 15:34:30 >> Registrazione utente
+2019/09/26 15:35:09 >> Registrazione utente
+2019/09/26 15:35:34 >> Registrazione utente
+2019/09/26 15:35:51 >> Registrazione utente
+2019/09/26 15:35:57 >> Tentativo Login
+2019/09/26 15:35:57 >> Login Con Successo
+2019/09/26 15:35:58 >> Tentativo Login
+2019/09/26 15:35:58 >> Login Con Successo
+2019/09/26 15:50:16 >> Registrazione utente
+2019/09/26 15:50:19 >> Registrazione utente
+2019/09/26 15:50:36 >> Tentativo Login
+2019/09/26 15:50:36 >> Login Con Successo
+2019/09/26 16:23:13 >> Tentativo Login
+2019/09/26 16:23:13 >> Login Con Successo
+2019/09/26 16:23:32 >> Upload pdf
+2019/09/26 16:23:32 >> Inserted Menu into MongoDB
+2019/09/26 16:23:32 >> File created
+2019/09/26 16:23:38 >> Upload pdf
+2019/09/26 16:23:38 >> Inserted Menu into MongoDB
+2019/09/26 16:23:38 >> File created
+2019/09/26 16:23:50 >> Upload pdf
+2019/09/26 16:23:50 >> Inserted Menu into MongoDB
+2019/09/26 16:23:50 >> File created
+2019/09/26 16:29:48 >> Upload pdf
+2019/09/26 16:29:48 >> File created
+2019/09/26 16:29:48 >> Inserted Menu into MongoDB
+2019/09/26 16:30:57 >> Upload pdf
+2019/09/26 16:30:57 >> File created
+2019/09/26 16:30:57 >> Inserted Menu into MongoDB
+2019/09/26 16:45:10 >> Upload pdf
+2019/09/26 16:45:10 >> File created
+2019/09/26 16:45:10 >> Inserted Menu into MongoDB
+2019/09/26 16:45:23 >> Upload pdf
+2019/09/26 16:45:23 >> File created
+2019/09/26 16:45:23 >> Inserted Menu into MongoDB
+2019/09/27 10:55:31 >> Tentativo Login
+2019/09/27 10:57:36 >> Tentativo Login
+2019/09/27 10:58:18 >> Tentativo Login
+2019/09/27 11:08:35 >> Registrazione utente
+2019/09/27 11:09:09 >> Registrazione utente
+2019/09/27 11:09:43 >> Tentativo Login
+2019/09/27 11:09:43 >> Login Con Successo
+2019/09/27 11:10:35 >> Tentativo Login
+2019/09/27 11:10:35 >> Login Con Successo
+2019/09/27 11:14:35 >> Tentativo Login
+2019/09/27 11:15:53 >> Tentativo Login
+2019/09/27 11:15:53 >> Login Con Successo
+2019/09/27 11:16:15 >> Tentativo Login
+2019/09/27 11:24:46 >> Registrazione utente
+2019/09/27 11:24:51 >> Tentativo Login
+2019/09/27 11:24:51 >> Login Con Successo
+2019/09/27 11:24:52 >> Tentativo Login
+2019/09/27 11:24:52 >> Login Con Successo
+2019/09/27 11:24:53 >> Tentativo Login
+2019/09/27 11:24:53 >> Login Con Successo
+2019/09/27 11:24:54 >> Tentativo Login
+2019/09/27 11:24:54 >> Login Con Successo
+2019/09/27 11:25:01 >> Tentativo Login
+2019/09/27 11:25:01 >> Login Con Successo
+2019/09/27 11:25:12 >> Tentativo Login
+2019/09/27 11:25:12 >> Login Con Successo
+2019/09/27 11:26:47 >> Tentativo Login
+2019/09/27 11:26:47 >> Login Con Successo
+2019/09/27 11:33:30 >> Tentativo Login
+2019/09/27 11:33:30 >> Login Con Successo
+2019/09/27 11:39:12 >> Registrazione utente
+2019/09/27 11:39:57 >> Tentativo Login
+2019/09/27 11:39:57 >> Login Con Successo
+2019/09/27 11:40:26 >> Tentativo Login
+2019/09/27 11:40:26 >> Login Con Successo
+2019/09/27 11:40:36 >> Tentativo Login
+2019/09/27 11:40:36 >> Login Con Successo
+2019/09/27 11:40:57 >> Tentativo Login
+2019/09/27 11:40:57 >> Login Con Successo
+2019/09/27 11:41:04 >> Tentativo Login
+2019/09/27 11:41:04 >> Login Con Successo
+2019/09/27 11:41:22 >> Tentativo Login
+2019/09/27 11:41:22 >> Login Con Successo
+2019/09/27 11:44:42 >> Registrazione utente
+2019/09/27 11:44:58 >> Tentativo Login
+2019/09/27 11:44:58 >> Login Con Successo
+2019/09/27 11:45:15 >> Tentativo Login
+2019/09/27 11:45:15 >> Login Con Successo
+2019/09/27 11:45:29 >> Tentativo Login
+2019/09/27 11:45:29 >> Login Con Successo
+2019/09/27 11:49:29 >> Tentativo Login
+2019/09/27 11:49:29 >> Login Con Successo
+2019/09/27 11:52:04 >> Tentativo Login
+2019/09/27 11:52:04 >> Login Con Successo
+2019/09/27 11:57:16 >> Tentativo Login
+2019/09/27 11:57:16 >> Login Con Successo
+2019/09/27 12:03:36 >> Tentativo Login
+2019/09/27 12:03:36 >> Login Con Successo
+2019/09/27 12:56:09 >> Get all menu
+2019/09/27 12:58:49 >> Get all menu
+2019/09/27 12:59:24 >> Get all menu
+2019/09/27 13:00:04 >> Get all menu
+2019/09/27 13:00:06 >> Get all menu
+2019/09/27 13:01:00 >> Get all menu
+2019/09/27 13:01:24 >> Get all menu
+2019/09/27 13:01:49 >> Get all menu
+2019/09/27 13:02:01 >> Get all menu
+2019/09/27 13:02:25 >> Get all menu
+2019/09/27 14:12:16 >> Get all menu
+2019/09/27 14:49:52 >> Get all menu
+2019/09/27 14:53:31 >> Get all menu
+2019/09/27 14:57:24 >> Get all menu
+2019/09/27 14:57:57 >> Tentativo Login
+2019/09/27 14:57:57 >> Login Con Successo
+2019/09/27 14:57:57 >> Get all menu
+2019/09/27 14:58:38 >> Get all menu
+2019/09/27 14:58:39 >> Get all menu
+2019/09/27 14:58:48 >> Get all menu
+2019/09/27 14:58:49 >> Get all menu
+2019/09/27 14:59:10 >> Get all menu
+2019/09/27 14:59:10 >> Get all menu
+2019/09/27 14:59:15 >> Get all menu
+2019/09/27 14:59:35 >> Get all menu
+2019/09/27 14:59:36 >> Get all menu
+2019/09/27 15:00:01 >> Get all menu
+2019/09/27 15:00:32 >> Get all menu
+2019/09/27 15:02:41 >> Get all menu
+2019/09/27 15:02:41 >> Get all menu
+2019/09/27 15:02:46 >> Get all menu
+2019/09/27 15:03:31 >> Get all menu
+2019/09/27 15:03:31 >> Get all menu
+2019/09/27 15:03:39 >> Get all menu
+2019/09/27 15:04:34 >> Get all menu
+2019/09/27 15:04:34 >> Get all menu
+2019/09/27 15:06:34 >> Get all menu
+2019/09/27 15:06:34 >> Get all menu
+2019/09/27 15:07:13 >> Get all menu
+2019/09/27 15:07:14 >> Get all menu
+2019/09/27 15:07:28 >> Get all menu
+2019/09/27 15:07:28 >> Get all menu
+2019/09/27 15:10:06 >> Get all menu
+2019/09/27 15:10:06 >> Get all menu
+2019/09/27 15:10:11 >> Get all menu
+2019/09/27 15:11:52 >> Get all menu
+2019/09/27 15:11:52 >> Get all menu
+2019/09/27 15:11:57 >> Get all menu
+2019/09/27 15:12:57 >> Get all menu
+2019/09/27 15:12:57 >> Get all menu
+2019/09/27 15:13:03 >> Get all menu
+2019/09/27 15:15:22 >> Get all menu
+2019/09/27 15:15:49 >> Get all menu
+2019/09/27 15:15:59 >> Get all menu
+2019/09/27 15:16:21 >> Get all menu
+2019/09/27 15:16:55 >> Get all menu
+2019/09/27 15:18:37 >> Get all menu
+2019/09/27 15:18:54 >> Get all menu
+2019/09/27 15:19:53 >> Get all menu
+2019/09/27 15:28:03 >> Upload pdf
+2019/09/27 15:28:33 >> Upload pdf
+2019/09/27 15:29:34 >> Upload pdf
+2019/09/27 15:30:37 >> Upload pdf
+2019/09/27 15:30:59 >> Tentativo Login
+2019/09/27 15:30:59 >> Login Con Successo
+2019/09/27 15:31:12 >> Upload pdf
+2019/09/27 15:31:12 >> Inserted Menu into MongoDB
+2019/09/27 15:31:12 >> File created
+2019/09/27 15:33:40 >> Get all menu
+2019/09/27 15:33:50 >> Get all menu
+2019/09/27 15:34:00 >> Upload pdf
+2019/09/27 15:34:45 >> Get all menu
+2019/09/27 15:34:49 >> Upload pdf
+2019/09/27 15:35:08 >> Get all menu
+2019/09/27 15:35:12 >> Upload pdf
+2019/09/27 15:36:40 >> Get all menu
+2019/09/27 15:36:45 >> Upload pdf
+2019/09/27 15:37:37 >> Get all menu
+2019/09/27 15:37:40 >> Upload pdf
+2019/09/27 15:42:32 >> Get all menu
+2019/09/27 15:42:39 >> Get all menu
+2019/09/27 15:42:57 >> Get all menu
+2019/09/27 15:43:26 >> Upload pdf
+2019/09/27 15:43:45 >> Upload pdf
+2019/09/27 15:43:45 >> Inserted Menu into MongoDB
+2019/09/27 15:43:45 >> File created
+2019/09/27 15:44:02 >> Get all menu
+2019/09/27 15:44:06 >> Get all menu
+2019/09/27 15:44:09 >> Upload pdf
+2019/09/27 15:44:09 >> Inserted Menu into MongoDB
+2019/09/27 15:44:09 >> File created
+2019/09/27 15:44:54 >> Get all menu
+2019/09/27 15:45:18 >> Get all menu
+2019/09/27 15:45:32 >> Get all menu
+2019/09/27 15:45:35 >> Upload pdf
+2019/09/27 15:45:35 >> Inserted Menu into MongoDB
+2019/09/27 15:45:35 >> File created
+2019/09/27 15:46:00 >> Get all menu
+2019/09/27 15:46:03 >> Upload pdf
+2019/09/27 15:46:22 >> Upload pdf
+2019/09/27 15:46:26 >> Tentativo Login
+2019/09/27 15:46:26 >> Login Con Successo
+2019/09/27 15:46:41 >> Upload pdf
+2019/09/27 15:46:46 >> Upload pdf
+2019/09/27 15:48:11 >> Upload pdf
+2019/09/27 15:48:11 >> File created
+2019/09/27 15:48:11 >> Inserted Menu into MongoDB
+2019/09/27 15:48:16 >> Get all menu
+2019/09/27 15:48:19 >> Upload pdf
+2019/09/27 15:48:19 >> Inserted Menu into MongoDB
+2019/09/27 15:48:19 >> File created
+2019/09/27 15:49:41 >> Get all menu
+2019/09/27 15:51:07 >> Get all menu
+2019/09/27 15:51:14 >> Get all menu
+2019/09/27 15:51:20 >> Get all menu
+2019/09/27 15:51:36 >> Get all menu
+2019/09/27 15:52:01 >> Get all menu
+2019/09/27 15:52:05 >> Get all menu
+2019/09/27 15:52:21 >> Get all menu
+2019/09/27 15:52:39 >> Upload pdf
+2019/09/27 15:52:39 >> File created
+2019/09/27 15:52:39 >> Inserted Menu into MongoDB
+2019/09/27 15:52:43 >> Get all menu
+2019/09/27 15:53:25 >> Get all menu
+2019/09/27 15:53:25 >> Get all menu
+2019/09/27 15:53:41 >> Get all menu
+2019/09/27 15:53:41 >> Get all menu
+2019/09/27 15:53:43 >> Get all menu
+2019/09/27 15:53:44 >> Get all menu
+2019/09/27 15:53:46 >> Get all menu
+2019/09/27 15:53:51 >> Upload pdf
+2019/09/27 15:53:51 >> File created
+2019/09/27 15:53:51 >> Inserted Menu into MongoDB
+2019/09/27 15:53:51 >> Get all menu
+2019/09/27 15:54:24 >> Get all menu
+2019/09/27 15:54:52 >> Get all menu
+2019/09/27 15:54:55 >> Get all menu
+2019/09/27 15:55:39 >> Get all menu
+2019/09/27 15:55:43 >> Get all menu
+2019/09/27 15:55:48 >> Upload pdf
+2019/09/27 15:55:48 >> File created
+2019/09/27 15:55:48 >> Inserted Menu into MongoDB
+2019/09/27 15:55:48 >> Get all menu
+2019/09/27 15:55:58 >> Get all menu
+2019/09/27 15:56:14 >> Upload pdf
+2019/09/27 15:56:14 >> File created
+2019/09/27 15:56:14 >> Inserted Menu into MongoDB
+2019/09/27 15:56:14 >> Get all menu
+2019/09/27 15:56:48 >> Get all menu
+2019/09/27 15:57:48 >> Get all menu
+2019/09/27 15:57:54 >> Upload pdf
+2019/09/27 15:57:54 >> File created
+2019/09/27 15:57:54 >> Inserted Menu into MongoDB
+2019/09/27 15:57:54 >> Get all menu
+2019/09/27 16:00:02 >> Get all menu
+2019/09/27 16:00:13 >> Tentativo Login
+2019/09/27 16:04:20 >> Tentativo Login
+2019/09/27 16:04:20 >> Login Fallito : Utente non esistente
+2019/09/27 16:04:29 >> Tentativo Login
+2019/09/27 16:04:29 >> Login Fallito : Password non corretta
+2019/09/27 16:04:59 >> Tentativo Login
+2019/09/27 16:04:59 >> Login Fallito : Password non corretta
+2019/09/27 16:05:03 >> Tentativo Login
+2019/09/27 16:05:03 >> Login Con Successo
+2019/09/27 16:05:04 >> Get all menu
+2019/09/27 16:06:37 >> Get all menu
+2019/09/27 16:06:41 >> Get all menu
+2019/09/27 16:09:18 >> Registrazione utente
+2019/09/27 16:09:39 >> Tentativo Login
+2019/09/27 16:09:39 >> Login Fallito : Utente non esistente
+2019/09/27 16:10:10 >> Tentativo Login
+2019/09/27 16:10:10 >> Login Fallito : Password non corretta
+2019/09/27 16:10:19 >> Tentativo Login
+2019/09/27 16:10:19 >> Login Con Successo
+2019/09/27 16:10:20 >> Get all menu
+2019/09/27 16:10:34 >> Upload pdf
+2019/09/27 16:10:34 >> File created
+2019/09/27 16:10:34 >> Inserted Menu into MongoDB
+2019/09/27 16:10:34 >> Get all menu
