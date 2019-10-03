@@ -299,3 +299,3997 @@
 2019/09/27 16:10:34 >> File created
 2019/09/27 16:10:34 >> Inserted Menu into MongoDB
 2019/09/27 16:10:34 >> Get all menu
+2019/09/30 08:47:17 >> Tentativo Login
+2019/09/30 08:47:17 >> Login Fallito : Utente non esistente
+2019/09/30 08:47:36 >> Tentativo Login
+2019/09/30 08:47:36 >> Login Fallito : Utente non esistente
+2019/09/30 08:47:40 >> Tentativo Login
+2019/09/30 08:47:40 >> Login Fallito : Utente non esistente
+2019/09/30 08:47:48 >> Tentativo Login
+2019/09/30 08:47:48 >> Login Con Successo
+2019/09/30 08:47:49 >> Get all menu
+2019/09/30 08:55:43 >> Get all menu
+2019/09/30 09:01:41 >> Get all menu
+2019/09/30 09:01:50 >> Upload pdf
+2019/09/30 09:01:50 >> File created
+2019/09/30 09:06:19 >> Get all menu
+2019/09/30 09:06:22 >> Upload pdf
+2019/09/30 09:07:19 >> Get all menu
+2019/09/30 09:07:22 >> Upload pdf
+2019/09/30 09:21:25 >> Get all menu
+2019/09/30 09:21:27 >> Upload pdf
+2019/09/30 09:21:27 >> File created
+2019/09/30 09:21:28 >> Inserted Menu into MongoDB
+2019/09/30 09:21:28 >> Parse PDF avvenuto con successo!
+2019/09/30 09:21:28 >> Get all menu
+2019/09/30 09:22:40 >> Upload pdf
+2019/09/30 09:22:40 >> File created
+2019/09/30 09:22:41 >> Inserted Menu into MongoDB
+2019/09/30 09:22:41 >> Parse PDF avvenuto con successo!
+2019/09/30 09:22:41 >> Get all menu
+2019/09/30 09:24:42 >> Upload pdf
+2019/09/30 09:24:42 >> File created
+2019/09/30 09:25:12 >> Get all menu
+2019/09/30 09:25:16 >> Upload pdf
+2019/09/30 09:25:16 >> File created
+2019/09/30 09:26:17 >> Get all menu
+2019/09/30 09:26:20 >> Upload pdf
+2019/09/30 09:26:20 >> File created
+2019/09/30 09:26:20 >> Inserted Menu into MongoDB
+2019/09/30 09:26:21 >> Get all menu
+2019/09/30 09:27:23 >> Get all menu
+2019/09/30 09:27:26 >> Upload pdf
+2019/09/30 09:27:26 >> File created
+2019/09/30 09:27:27 >> Inserted Menu into MongoDB
+2019/09/30 09:27:27 >> Get all menu
+2019/09/30 09:28:28 >> Upload pdf
+2019/09/30 09:28:28 >> File created
+2019/09/30 09:28:28 >> Inserted Menu into MongoDB
+2019/09/30 09:28:28 >> Get all menu
+2019/09/30 09:29:34 >> Upload pdf
+2019/09/30 09:29:34 >> File created
+2019/09/30 09:29:34 >> Inserted Menu into MongoDB
+2019/09/30 09:29:34 >> Get all menu
+2019/09/30 09:33:41 >> Get all menu
+2019/09/30 09:33:45 >> Upload pdf
+2019/09/30 09:33:45 >> File created
+2019/09/30 09:33:45 >> Get all menu
+2019/09/30 09:36:36 >> Get all menu
+2019/09/30 09:36:41 >> Upload pdf
+2019/09/30 09:36:41 >> File created
+2019/09/30 09:36:41 >> Get all menu
+2019/09/30 09:38:11 >> Get all menu
+2019/09/30 09:38:14 >> Upload pdf
+2019/09/30 09:38:14 >> File created
+2019/09/30 09:38:14 >> Get all menu
+2019/09/30 09:39:27 >> Upload pdf
+2019/09/30 09:39:27 >> File created
+2019/09/30 09:39:28 >> Get all menu
+2019/09/30 09:40:32 >> Upload pdf
+2019/09/30 09:40:32 >> File created
+2019/09/30 09:40:32 >> Get all menu
+2019/09/30 09:47:00 >> Get all menu
+2019/09/30 09:47:04 >> Upload pdf
+2019/09/30 09:47:04 >> File created
+2019/09/30 09:47:43 >> Get all menu
+2019/09/30 09:47:46 >> Upload pdf
+2019/09/30 09:47:46 >> File created
+2019/09/30 09:47:46 >> Get all menu
+2019/09/30 09:49:49 >> Upload pdf
+2019/09/30 09:49:49 >> File created
+2019/09/30 09:49:49 >> Get all menu
+2019/09/30 10:02:15 >> Get all menu
+2019/09/30 10:02:20 >> Upload pdf
+2019/09/30 10:02:20 >> File created
+2019/09/30 10:03:16 >> Get all menu
+2019/09/30 10:03:19 >> Upload pdf
+2019/09/30 10:03:19 >> File created
+2019/09/30 10:03:20 >> Get all menu
+2019/09/30 10:03:54 >> Get all menu
+2019/09/30 10:03:56 >> Upload pdf
+2019/09/30 10:03:56 >> File created
+2019/09/30 10:04:23 >> Get all menu
+2019/09/30 10:04:26 >> Upload pdf
+2019/09/30 10:04:26 >> File created
+2019/09/30 10:04:26 >> Get all menu
+2019/09/30 10:15:37 >> Get all menu
+2019/09/30 10:15:40 >> Upload pdf
+2019/09/30 10:15:40 >> File created
+2019/09/30 10:20:57 >> Get all menu
+2019/09/30 10:21:00 >> Upload pdf
+2019/09/30 10:21:00 >> File created
+2019/09/30 10:21:01 >> Get all menu
+2019/09/30 10:22:20 >> Get all menu
+2019/09/30 10:22:23 >> Upload pdf
+2019/09/30 10:22:23 >> File created
+2019/09/30 10:24:00 >> Get all menu
+2019/09/30 10:24:05 >> Upload pdf
+2019/09/30 10:24:05 >> File created
+2019/09/30 10:24:05 >> Get all menu
+2019/09/30 10:25:17 >> Upload pdf
+2019/09/30 10:25:17 >> File created
+2019/09/30 10:25:17 >> Get all menu
+2019/09/30 10:25:53 >> Get all menu
+2019/09/30 12:39:18 >> Get all menu
+2019/09/30 12:45:17 >> Upload pdf
+2019/09/30 12:45:17 >> File created
+2019/09/30 12:45:32 >> Get all menu
+2019/09/30 12:45:34 >> Upload pdf
+2019/09/30 12:45:34 >> File created
+2019/09/30 12:45:51 >> Get all menu
+2019/09/30 12:45:53 >> Upload pdf
+2019/09/30 12:45:53 >> File created
+2019/09/30 12:45:54 >> Get all menu
+2019/09/30 12:47:37 >> Upload pdf
+2019/09/30 12:47:37 >> File created
+2019/09/30 12:47:38 >> Get all menu
+2019/09/30 12:48:04 >> Upload pdf
+2019/09/30 12:48:04 >> File created
+2019/09/30 12:48:04 >> Get all menu
+2019/09/30 12:49:12 >> Upload pdf
+2019/09/30 12:49:12 >> File created
+2019/09/30 12:49:13 >> Get all menu
+2019/09/30 12:50:42 >> Upload pdf
+2019/09/30 12:50:42 >> File created
+2019/09/30 12:50:42 >> Get all menu
+2019/09/30 12:51:22 >> Upload pdf
+2019/09/30 12:51:22 >> File created
+2019/09/30 12:51:22 >> Get all menu
+2019/09/30 12:52:26 >> Upload pdf
+2019/09/30 12:52:26 >> File created
+2019/09/30 12:52:26 >> Get all menu
+2019/09/30 12:53:09 >> Upload pdf
+2019/09/30 12:53:09 >> File created
+2019/09/30 12:53:10 >> Get all menu
+2019/09/30 12:54:03 >> Upload pdf
+2019/09/30 12:54:03 >> File created
+2019/09/30 12:54:04 >> Get all menu
+2019/09/30 12:54:50 >> Get all menu
+2019/09/30 12:54:52 >> Upload pdf
+2019/09/30 12:54:52 >> File created
+2019/09/30 12:54:53 >> Get all menu
+2019/09/30 12:57:50 >> Upload pdf
+2019/09/30 12:57:50 >> File created
+2019/09/30 12:57:50 >> Get all menu
+2019/09/30 14:04:22 >> Registrazione utente
+2019/09/30 14:04:37 >> Tentativo Login
+2019/09/30 14:04:37 >> Login Con Successo
+2019/09/30 14:04:37 >> Get all menu
+2019/09/30 14:04:51 >> Upload pdf
+2019/09/30 14:04:51 >> File created
+2019/09/30 14:04:51 >> Get all menu
+2019/09/30 14:07:35 >> Get all menu
+2019/09/30 14:07:39 >> Upload pdf
+2019/09/30 14:07:39 >> File created
+2019/09/30 14:07:39 >> Inserted Menu into MongoDB
+2019/09/30 14:07:39 >> Get all menu
+2019/09/30 14:35:26 >> Get all menu
+2019/09/30 14:35:29 >> Upload pdf
+2019/09/30 14:35:29 >> File created
+2019/09/30 14:36:09 >> Get all menu
+2019/09/30 14:36:12 >> Upload pdf
+2019/09/30 14:36:12 >> File created
+2019/09/30 14:36:12 >> Inserted Menu into MongoDB
+2019/09/30 14:36:12 >> Parse PDF avvenuto con successo
+2019/09/30 14:36:12 >> Get all menu
+2019/09/30 14:37:08 >> Get all menu
+2019/09/30 14:37:12 >> Upload pdf
+2019/09/30 14:37:12 >> File created
+2019/09/30 14:37:12 >> Inserted Menu into MongoDB
+2019/09/30 14:37:12 >> Parse PDF avvenuto con successo
+2019/09/30 14:37:13 >> Get all menu
+2019/09/30 14:38:44 >> Get all menu
+2019/09/30 14:38:46 >> Upload pdf
+2019/09/30 14:38:46 >> File created
+2019/09/30 14:38:46 >> Inserted Menu into MongoDB
+2019/09/30 14:38:47 >> Parse PDF avvenuto con successo
+2019/09/30 14:38:47 >> Parse PDF avvenuto con successo
+2019/09/30 14:38:47 >> Get all menu
+2019/09/30 14:39:55 >> Get all menu
+2019/09/30 14:39:57 >> Upload pdf
+2019/09/30 14:40:24 >> Get all menu
+2019/09/30 14:40:26 >> Upload pdf
+2019/09/30 14:40:26 >> File created
+2019/09/30 14:40:42 >> Get all menu
+2019/09/30 14:40:45 >> Upload pdf
+2019/09/30 14:40:45 >> File created
+2019/09/30 14:40:45 >> Inserted Menu into MongoDB
+2019/09/30 14:40:46 >> Parse PDF avvenuto con successo
+2019/09/30 14:40:46 >> Get all menu
+2019/09/30 14:43:04 >> Get all menu
+2019/09/30 14:43:07 >> Upload pdf
+2019/09/30 14:43:07 >> File created
+2019/09/30 14:43:07 >> Parse PDF avvenuto con successo
+2019/09/30 14:43:07 >> Inserted Menu into MongoDB
+2019/09/30 14:43:08 >> Get all menu
+2019/09/30 14:44:42 >> Get all menu
+2019/09/30 14:44:44 >> Upload pdf
+2019/09/30 14:44:44 >> File created
+2019/09/30 14:44:45 >> Parse PDF avvenuto con successo
+2019/09/30 14:44:45 >> Inserted Menu into MongoDB
+2019/09/30 14:44:45 >> Get all menu
+2019/09/30 14:48:19 >> Get all menu
+2019/09/30 14:48:22 >> Upload pdf
+2019/09/30 14:48:22 >> File created
+2019/09/30 14:48:22 >> Inserted Menu into MongoDB
+2019/09/30 14:48:22 >> Parse PDF avvenuto con successo
+2019/09/30 14:48:23 >> Get all menu
+2019/09/30 14:48:50 >> Get all menu
+2019/09/30 14:48:53 >> Upload pdf
+2019/09/30 14:48:53 >> File created
+2019/09/30 14:48:53 >> Parse PDF avvenuto con successo
+2019/09/30 14:48:53 >> Inserted Menu into MongoDB
+2019/09/30 14:48:53 >> Get all menu
+2019/09/30 14:49:52 >> Get all menu
+2019/09/30 14:58:44 >> Get all menu
+2019/09/30 15:00:18 >> Get all menu
+2019/09/30 15:00:19 >> Get all menu
+2019/09/30 15:00:58 >> Get all menu
+2019/09/30 15:00:58 >> Get all menu
+2019/09/30 15:01:21 >> Get all menu
+2019/09/30 15:01:21 >> Get all menu
+2019/09/30 15:02:05 >> Get all menu
+2019/09/30 15:02:05 >> Get all menu
+2019/09/30 15:02:42 >> Get all menu
+2019/09/30 15:02:42 >> Get all menu
+2019/09/30 15:02:51 >> Get all menu
+2019/09/30 15:02:51 >> Get all menu
+2019/09/30 15:02:59 >> Get all menu
+2019/09/30 15:02:59 >> Get all menu
+2019/09/30 15:04:35 >> Get all menu
+2019/09/30 15:04:36 >> Get all menu
+2019/09/30 15:04:44 >> Get all menu
+2019/09/30 15:04:45 >> Get all menu
+2019/09/30 15:06:50 >> Get all menu
+2019/09/30 15:06:54 >> Upload pdf
+2019/09/30 15:06:54 >> File created
+2019/09/30 15:06:54 >> Parse PDF avvenuto con successo
+2019/09/30 15:06:54 >> Inserted Menu into MongoDB
+2019/09/30 15:06:55 >> Get all menu
+2019/09/30 15:07:04 >> Get all menu
+2019/09/30 15:07:08 >> Upload pdf
+2019/09/30 15:07:08 >> File created
+2019/09/30 15:07:32 >> Get all menu
+2019/09/30 15:09:14 >> Get all menu
+2019/09/30 15:09:18 >> Upload pdf
+2019/09/30 15:09:18 >> File created
+2019/09/30 15:09:18 >> Parse PDF avvenuto con successo
+2019/09/30 15:09:18 >> Inserted Menu into MongoDB
+2019/09/30 15:09:19 >> Get all menu
+2019/09/30 15:10:36 >> Get all menu
+2019/09/30 15:10:36 >> Get all menu
+2019/09/30 15:11:00 >> Get all menu
+2019/09/30 15:11:00 >> Get all menu
+2019/09/30 15:11:11 >> Get all menu
+2019/09/30 15:11:12 >> Get all menu
+2019/09/30 15:11:48 >> Get all menu
+2019/09/30 15:11:48 >> Get all menu
+2019/09/30 15:11:56 >> Get all menu
+2019/09/30 15:11:57 >> Get all menu
+2019/09/30 15:12:03 >> Upload pdf
+2019/09/30 15:12:03 >> File created
+2019/09/30 15:12:27 >> Get all menu
+2019/09/30 15:12:31 >> Upload pdf
+2019/09/30 15:12:31 >> File created
+2019/09/30 15:12:31 >> Parse PDF avvenuto con successo
+2019/09/30 15:12:31 >> Inserted Menu into MongoDB
+2019/09/30 15:12:32 >> Get all menu
+2019/09/30 15:14:25 >> Get all menu
+2019/09/30 15:14:25 >> Get all menu
+2019/09/30 15:14:28 >> Get all menu
+2019/09/30 15:14:28 >> Get all menu
+2019/09/30 15:14:50 >> Get all menu
+2019/09/30 15:14:50 >> Get all menu
+2019/09/30 15:17:15 >> Get all menu
+2019/09/30 15:17:15 >> Get all menu
+2019/09/30 15:17:59 >> Get all menu
+2019/09/30 15:17:59 >> Get all menu
+2019/09/30 15:18:21 >> Get all menu
+2019/09/30 15:18:21 >> Get all menu
+2019/09/30 15:18:42 >> Get all menu
+2019/09/30 15:18:42 >> Get all menu
+2019/09/30 15:18:58 >> Get all menu
+2019/09/30 15:18:58 >> Get all menu
+2019/09/30 15:19:37 >> Get all menu
+2019/09/30 15:19:37 >> Get all menu
+2019/09/30 15:19:55 >> Get all menu
+2019/09/30 15:19:55 >> Get all menu
+2019/09/30 15:20:23 >> Get all menu
+2019/09/30 15:20:23 >> Get all menu
+2019/09/30 15:20:33 >> Get all menu
+2019/09/30 15:20:34 >> Get all menu
+2019/09/30 15:20:50 >> Get all menu
+2019/09/30 15:20:50 >> Get all menu
+2019/09/30 15:20:53 >> Get all menu
+2019/09/30 15:20:53 >> Get all menu
+2019/09/30 15:21:45 >> Get all menu
+2019/09/30 15:21:46 >> Get all menu
+2019/09/30 15:22:01 >> Get all menu
+2019/09/30 15:22:01 >> Get all menu
+2019/09/30 15:22:19 >> Get all menu
+2019/09/30 15:22:19 >> Get all menu
+2019/09/30 15:25:39 >> Get all menu
+2019/09/30 15:25:39 >> Get all menu
+2019/09/30 15:25:42 >> Get all menu
+2019/09/30 15:25:42 >> Get all menu
+2019/09/30 15:28:15 >> Get all menu
+2019/09/30 15:40:14 >> Get all menu
+2019/09/30 15:40:49 >> Get all menu
+2019/09/30 15:42:03 >> Get all menu
+2019/09/30 15:45:42 >> Get all menu
+2019/09/30 15:45:42 >> Get all menu
+2019/09/30 15:47:55 >> Get all menu
+2019/09/30 15:47:55 >> Get all menu
+2019/09/30 15:48:12 >> Get all menu
+2019/09/30 15:48:12 >> Get all menu
+2019/09/30 15:50:19 >> Get all menu
+2019/09/30 15:50:19 >> Get all menu
+2019/09/30 15:50:46 >> Get all menu
+2019/09/30 15:50:46 >> Get all menu
+2019/09/30 15:50:49 >> Get all menu
+2019/09/30 15:50:50 >> Get all menu
+2019/09/30 15:51:22 >> Upload pdf
+2019/09/30 15:51:22 >> File created
+2019/09/30 15:51:23 >> Parse PDF avvenuto con successo
+2019/09/30 15:51:23 >> Parse PDF avvenuto con successo
+2019/09/30 15:51:23 >> Parse PDF avvenuto con successo
+2019/09/30 15:51:23 >> Parse PDF avvenuto con successo
+2019/09/30 15:51:23 >> Inserted Menu into MongoDB
+2019/09/30 15:52:44 >> Get all menu
+2019/09/30 15:53:16 >> Get all menu
+2019/09/30 15:53:16 >> Get all menu
+2019/09/30 15:53:59 >> Get all menu
+2019/09/30 15:53:59 >> Get all menu
+2019/09/30 15:55:01 >> Get all menu
+2019/09/30 15:55:01 >> Get all menu
+2019/09/30 15:55:26 >> Get all menu
+2019/09/30 15:55:26 >> Get all menu
+2019/09/30 15:55:55 >> Get all menu
+2019/09/30 15:55:55 >> Get all menu
+2019/09/30 15:57:18 >> Get all menu
+2019/09/30 15:57:18 >> Get all menu
+2019/09/30 15:59:21 >> Get all menu
+2019/09/30 15:59:39 >> Get all menu
+2019/09/30 15:59:39 >> Get all menu
+2019/09/30 16:00:03 >> Get all menu
+2019/09/30 16:00:03 >> Get all menu
+2019/09/30 16:02:28 >> Get all menu
+2019/09/30 16:02:28 >> Get all menu
+2019/09/30 16:03:06 >> Get all menu
+2019/09/30 16:03:37 >> Get all menu
+2019/09/30 16:03:41 >> Upload pdf
+2019/09/30 16:03:41 >> File created
+2019/09/30 16:03:41 >> Parse PDF avvenuto con successo
+2019/09/30 16:03:41 >> Inserted Menu into MongoDB
+2019/09/30 16:03:42 >> Get all menu
+2019/09/30 16:03:49 >> Get all menu
+2019/09/30 16:03:59 >> Upload pdf
+2019/09/30 16:03:59 >> File created
+2019/09/30 16:03:59 >> Parse PDF avvenuto con successo
+2019/09/30 16:03:59 >> Parse PDF avvenuto con successo
+2019/09/30 16:03:59 >> Parse PDF avvenuto con successo
+2019/09/30 16:03:59 >> Parse PDF avvenuto con successo
+2019/09/30 16:05:42 >> Upload pdf
+2019/09/30 16:05:42 >> File created
+2019/09/30 16:05:42 >> Parse PDF avvenuto con successo
+2019/09/30 16:05:42 >> Inserted Menu into MongoDB
+2019/09/30 16:05:42 >> Get all menu
+2019/09/30 16:05:58 >> Upload pdf
+2019/09/30 16:05:58 >> File created
+2019/09/30 16:05:58 >> Parse PDF avvenuto con successo
+2019/09/30 16:05:58 >> Parse PDF avvenuto con successo
+2019/09/30 16:05:58 >> Parse PDF avvenuto con successo
+2019/09/30 16:05:58 >> Parse PDF avvenuto con successo
+2019/09/30 16:06:48 >> Get all menu
+2019/09/30 16:06:53 >> Upload pdf
+2019/09/30 16:06:53 >> File created
+2019/09/30 16:06:54 >> Parse PDF avvenuto con successo
+2019/10/02 08:20:47 >> Tentativo Login
+2019/10/02 08:20:47 >> Login Con Successo
+2019/10/02 08:20:48 >> Get all menu
+2019/10/02 08:29:08 >> Get all menu
+2019/10/02 08:29:24 >> Upload pdf
+2019/10/02 08:29:24 >> File created
+2019/10/02 08:29:24 >> Parse PDF avvenuto con successo
+2019/10/02 08:29:24 >> Inserted Menu into MongoDB
+2019/10/02 08:29:25 >> Get all menu
+2019/10/02 08:45:34 >> Get all menu
+2019/10/02 08:45:59 >> Tentativo Login
+2019/10/02 08:45:59 >> Login Con Successo
+2019/10/02 08:45:59 >> Get all menu
+2019/10/02 08:46:19 >> Get all menu
+2019/10/02 08:46:20 >> Get all menu
+2019/10/02 08:46:20 >> Get all menu
+2019/10/02 08:46:24 >> Get all menu
+2019/10/02 08:46:26 >> Get all menu
+2019/10/02 08:46:26 >> Get all menu
+2019/10/02 08:46:26 >> Get all menu
+2019/10/02 08:46:29 >> Get all menu
+2019/10/02 08:46:30 >> Get all menu
+2019/10/02 08:46:30 >> Get all menu
+2019/10/02 08:46:31 >> Get all menu
+2019/10/02 08:46:34 >> Get all menu
+2019/10/02 08:46:36 >> Get all menu
+2019/10/02 08:46:36 >> Get all menu
+2019/10/02 08:46:36 >> Get all menu
+2019/10/02 08:46:42 >> Get all menu
+2019/10/02 08:47:16 >> Get all menu
+2019/10/02 08:47:18 >> Get all menu
+2019/10/02 08:47:18 >> Get all menu
+2019/10/02 08:47:18 >> Get all menu
+2019/10/02 08:47:19 >> Get all menu
+2019/10/02 08:48:31 >> Get all menu
+2019/10/02 08:48:31 >> Get all menu
+2019/10/02 08:48:31 >> Get all menu
+2019/10/02 08:48:31 >> Get all menu
+2019/10/02 08:48:32 >> Get all menu
+2019/10/02 08:50:23 >> Get all menu
+2019/10/02 08:50:23 >> Get all menu
+2019/10/02 08:50:23 >> Get all menu
+2019/10/02 08:50:23 >> Get all menu
+2019/10/02 08:52:04 >> Get all menu
+2019/10/02 08:52:04 >> Get all menu
+2019/10/02 08:52:28 >> Get all menu
+2019/10/02 08:52:28 >> Get all menu
+2019/10/02 09:01:54 >> Get all menu
+2019/10/02 09:01:57 >> Upload pdf
+2019/10/02 09:01:57 >> File created
+2019/10/02 09:01:58 >> Parse PDF avvenuto con successo
+2019/10/02 09:01:58 >> Inserted Menu into MongoDB
+2019/10/02 09:01:58 >> Get all menu
+2019/10/02 09:07:37 >> Get all menu
+2019/10/02 09:07:40 >> Upload pdf
+2019/10/02 09:07:40 >> File created
+2019/10/02 09:07:40 >> Parse PDF avvenuto con successo
+2019/10/02 09:07:40 >> Inserted Menu into MongoDB
+2019/10/02 09:07:41 >> Get all menu
+2019/10/02 09:08:35 >> Get all menu
+2019/10/02 09:09:29 >> Get all menu
+2019/10/02 09:09:36 >> Get all menu
+2019/10/02 12:07:32 >> Tentativo Login
+2019/10/02 12:07:32 >> Login Con Successo
+2019/10/02 12:07:32 >> Get all menu
+2019/10/02 12:08:31 >> Get all menu
+2019/10/02 12:08:36 >> Tentativo Login
+2019/10/02 12:08:36 >> Login Con Successo
+2019/10/02 12:08:36 >> Get all menu
+2019/10/02 12:14:22 >> Upload pdf
+2019/10/02 12:14:22 >> File created
+2019/10/02 12:14:22 >> Parse PDF avvenuto con successo
+2019/10/02 12:14:22 >> Parse PDF avvenuto con successo
+2019/10/02 12:14:22 >> Parse PDF avvenuto con successo
+2019/10/02 12:14:22 >> Parse PDF avvenuto con successo
+2019/10/02 12:15:45 >> Get all menu
+2019/10/02 12:15:50 >> Upload pdf
+2019/10/02 12:15:50 >> File created
+2019/10/02 12:15:50 >> Parse PDF avvenuto con successo
+2019/10/02 12:15:50 >> Inserted Menu into MongoDB
+2019/10/02 12:15:51 >> Get all menu
+2019/10/02 12:16:23 >> Get all menu
+2019/10/02 12:19:48 >> Get all menu
+2019/10/02 12:19:51 >> Get all menu
+2019/10/02 12:20:08 >> Get all menu
+2019/10/02 12:20:32 >> Get all menu
+2019/10/02 12:20:36 >> Get all menu
+2019/10/02 12:20:50 >> Get all menu
+2019/10/02 12:21:07 >> Get all menu
+2019/10/02 12:21:20 >> Get all menu
+2019/10/02 12:23:51 >> Get all menu
+2019/10/02 12:24:18 >> Get all menu
+2019/10/02 12:24:25 >> Get all menu
+2019/10/02 12:24:43 >> Get all menu
+2019/10/02 12:26:12 >> Get all menu
+2019/10/02 12:27:38 >> Get all menu
+2019/10/02 12:28:01 >> Get all menu
+2019/10/02 12:28:26 >> Get all menu
+2019/10/02 12:30:24 >> Get all menu
+2019/10/02 12:30:43 >> Get all menu
+2019/10/02 12:35:16 >> Get all menu
+2019/10/02 12:35:54 >> Get all menu
+2019/10/02 12:36:24 >> Get all menu
+2019/10/02 12:36:36 >> Get all menu
+2019/10/02 12:37:19 >> Get all menu
+2019/10/02 12:37:22 >> Get all menu
+2019/10/02 12:38:12 >> Get all menu
+2019/10/02 12:38:21 >> Get all menu
+2019/10/02 12:38:59 >> Get all menu
+2019/10/02 12:39:18 >> Get all menu
+2019/10/02 12:39:24 >> Get all menu
+2019/10/02 12:39:59 >> Get all menu
+2019/10/02 12:40:14 >> Get all menu
+2019/10/02 12:40:17 >> Get all menu
+2019/10/02 12:40:42 >> Get all menu
+2019/10/02 12:42:46 >> Get all menu
+2019/10/02 12:44:21 >> Get all menu
+2019/10/02 12:44:33 >> Get all menu
+2019/10/02 12:45:36 >> Get all menu
+2019/10/02 12:46:02 >> Get all menu
+2019/10/02 12:47:12 >> Get all menu
+2019/10/02 12:47:15 >> Get all menu
+2019/10/02 12:47:20 >> Get all menu
+2019/10/02 12:47:25 >> Get all menu
+2019/10/02 12:48:36 >> Upload pdf
+2019/10/02 12:48:36 >> File created
+2019/10/02 12:48:37 >> Parse PDF avvenuto con successo
+2019/10/02 12:48:37 >> Parse PDF avvenuto con successo
+2019/10/02 12:48:37 >> Parse PDF avvenuto con successo
+2019/10/02 12:48:37 >> Parse PDF avvenuto con successo
+2019/10/02 12:48:55 >> Upload pdf
+2019/10/02 12:48:55 >> File created
+2019/10/02 12:48:56 >> Parse PDF avvenuto con successo
+2019/10/02 12:48:56 >> Inserted Menu into MongoDB
+2019/10/02 12:48:56 >> Get all menu
+2019/10/02 12:49:16 >> Get all menu
+2019/10/02 12:49:19 >> Upload pdf
+2019/10/02 12:49:19 >> File created
+2019/10/02 12:49:19 >> Parse PDF avvenuto con successo
+2019/10/02 12:49:19 >> Parse PDF avvenuto con successo
+2019/10/02 12:49:19 >> Parse PDF avvenuto con successo
+2019/10/02 12:49:19 >> Parse PDF avvenuto con successo
+2019/10/02 12:51:20 >> Get all menu
+2019/10/02 12:51:29 >> Upload pdf
+2019/10/02 12:51:29 >> File created
+2019/10/02 12:51:29 >> Parse PDF avvenuto con successo
+2019/10/02 12:51:29 >> Inserted Menu into MongoDB
+2019/10/02 12:51:29 >> Get all menu
+2019/10/02 12:51:32 >> Get all menu
+2019/10/02 12:51:44 >> Upload pdf
+2019/10/02 12:51:44 >> File created
+2019/10/02 12:51:45 >> Parse PDF avvenuto con successo
+2019/10/02 12:51:45 >> Parse PDF avvenuto con successo
+2019/10/02 12:51:45 >> Parse PDF avvenuto con successo
+2019/10/02 12:51:45 >> Parse PDF avvenuto con successo
+2019/10/02 12:52:28 >> Get all menu
+2019/10/02 12:52:35 >> Get all menu
+2019/10/02 12:52:38 >> Upload pdf
+2019/10/02 12:52:38 >> File created
+2019/10/02 12:52:38 >> Parse PDF avvenuto con successo
+2019/10/02 12:52:38 >> Inserted Menu into MongoDB
+2019/10/02 12:52:38 >> Get all menu
+2019/10/02 12:52:41 >> Upload pdf
+2019/10/02 12:52:41 >> File created
+2019/10/02 12:52:41 >> Parse PDF avvenuto con successo
+2019/10/02 12:52:41 >> Parse PDF avvenuto con successo
+2019/10/02 12:52:41 >> Parse PDF avvenuto con successo
+2019/10/02 12:52:41 >> Parse PDF avvenuto con successo
+2019/10/02 12:53:38 >> Get all menu
+2019/10/02 12:53:46 >> Get all menu
+2019/10/02 12:53:48 >> Upload pdf
+2019/10/02 12:53:48 >> File created
+2019/10/02 12:53:48 >> Parse PDF avvenuto con successo
+2019/10/02 12:53:48 >> Get all menu
+2019/10/02 12:53:52 >> Upload pdf
+2019/10/02 12:53:52 >> File created
+2019/10/02 12:53:52 >> Parse PDF avvenuto con successo
+2019/10/02 12:53:52 >> Parse PDF avvenuto con successo
+2019/10/02 12:53:52 >> Parse PDF avvenuto con successo
+2019/10/02 12:53:52 >> Parse PDF avvenuto con successo
+2019/10/02 12:56:25 >> Get all menu
+2019/10/02 12:56:43 >> Upload pdf
+2019/10/02 12:56:43 >> File created
+2019/10/02 12:56:44 >> Parse PDF avvenuto con successo
+2019/10/02 12:57:12 >> Get all menu
+2019/10/02 12:57:27 >> Upload pdf
+2019/10/02 12:57:27 >> File created
+2019/10/02 12:57:27 >> Parse PDF avvenuto con successo
+2019/10/02 12:58:02 >> Get all menu
+2019/10/02 12:58:09 >> Upload pdf
+2019/10/02 12:58:09 >> File created
+2019/10/02 12:58:09 >> Parse PDF avvenuto con successo
+2019/10/02 13:03:24 >> Get all menu
+2019/10/02 13:03:30 >> Get all menu
+2019/10/02 13:03:34 >> Upload pdf
+2019/10/02 13:03:34 >> File created
+2019/10/02 13:03:34 >> Parse PDF avvenuto con successo
+2019/10/02 13:03:34 >> Get all menu
+2019/10/02 13:07:30 >> Get all menu
+2019/10/02 13:07:34 >> Get all menu
+2019/10/02 13:07:37 >> Upload pdf
+2019/10/02 13:07:37 >> File created
+2019/10/02 13:07:37 >> Parse PDF avvenuto con successo
+2019/10/02 13:07:38 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:07:38 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:07:38 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:07:38 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:07:38 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:07:38 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:07:38 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:07:38 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:07:38 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:07:38 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:07:38 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:07:38 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:07:38 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:07:38 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:07:38 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:07:38 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:07:38 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:07:38 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:07:38 >> Get all menu
+2019/10/02 13:08:52 >> Upload pdf
+2019/10/02 13:08:52 >> File created
+2019/10/02 13:08:52 >> Parse PDF avvenuto con successo
+2019/10/02 13:08:52 >> Parse PDF avvenuto con successo
+2019/10/02 13:08:52 >> Parse PDF avvenuto con successo
+2019/10/02 13:08:52 >> Parse PDF avvenuto con successo
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:08:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:17:58 >> Get all menu
+2019/10/02 13:18:16 >> Get all menu
+2019/10/02 13:18:19 >> Upload pdf
+2019/10/02 13:18:19 >> Parse PDF avvenuto con successo
+2019/10/02 13:18:19 >> File created
+2019/10/02 13:18:19 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:18:19 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:18:19 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:18:19 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:18:19 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:18:20 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:18:20 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:18:20 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:18:20 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:18:20 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:18:20 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:18:20 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:18:20 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:18:20 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:18:20 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:18:20 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:18:20 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:18:20 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:18:20 >> Get all menu
+2019/10/02 13:18:24 >> Upload pdf
+2019/10/02 13:18:24 >> Parse PDF avvenuto con successo
+2019/10/02 13:18:24 >> Parse PDF avvenuto con successo
+2019/10/02 13:18:24 >> Parse PDF avvenuto con successo
+2019/10/02 13:18:24 >> Parse PDF avvenuto con successo
+2019/10/02 13:19:11 >> Get all menu
+2019/10/02 13:19:22 >> Get all menu
+2019/10/02 13:19:48 >> Get all menu
+2019/10/02 13:19:50 >> Upload pdf
+2019/10/02 13:19:50 >> Parse PDF avvenuto con successo
+2019/10/02 13:19:50 >> File created
+2019/10/02 13:19:50 >> Get all menu
+2019/10/02 13:19:50 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:19:50 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:19:50 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:19:50 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:19:50 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:19:50 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:19:50 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:19:50 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:19:50 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:19:50 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:19:50 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:19:50 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:19:50 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:19:50 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:19:50 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:19:50 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:19:50 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:19:50 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:19:50 >> Inserted Menu into MongoDB
+2019/10/02 13:19:53 >> Upload pdf
+2019/10/02 13:19:54 >> File created
+2019/10/02 13:25:10 >> Get all menu
+2019/10/02 13:25:16 >> Get all menu
+2019/10/02 13:25:28 >> Upload pdf
+2019/10/02 13:25:28 >> Parse PDF avvenuto con successo
+2019/10/02 13:25:28 >> File created
+2019/10/02 13:25:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:25:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:25:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:25:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:25:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:25:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:25:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:25:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:25:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:25:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:25:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:25:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:25:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:25:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:25:28 >> Inserted Menu into MongoDB
+2019/10/02 13:25:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:25:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:25:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:25:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:25:28 >> Get all menu
+2019/10/02 13:26:09 >> Get all menu
+2019/10/02 13:26:13 >> Upload pdf
+2019/10/02 13:26:13 >> Parse PDF avvenuto con successo
+2019/10/02 13:26:13 >> Parse PDF avvenuto con successo
+2019/10/02 13:26:13 >> Parse PDF avvenuto con successo
+2019/10/02 13:26:13 >> Parse PDF avvenuto con successo
+2019/10/02 13:29:44 >> Get all menu
+2019/10/02 13:29:50 >> Get all menu
+2019/10/02 13:29:54 >> Upload pdf
+2019/10/02 13:29:55 >> Parse PDF avvenuto con successo
+2019/10/02 13:29:55 >> File created
+2019/10/02 13:29:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:29:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:29:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:29:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:29:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:29:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:29:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:29:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:29:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:29:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:29:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:29:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:29:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:29:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:29:55 >> Inserted Menu into MongoDB
+2019/10/02 13:29:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:29:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:29:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:29:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:29:55 >> Get all menu
+2019/10/02 13:31:44 >> Get all menu
+2019/10/02 13:31:49 >> Get all menu
+2019/10/02 13:31:52 >> Upload pdf
+2019/10/02 13:31:52 >> Parse PDF avvenuto con successo
+2019/10/02 13:31:52 >> File created
+2019/10/02 13:31:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:31:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:31:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:31:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:31:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:31:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:31:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:31:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:31:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:31:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:31:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:31:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:31:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:31:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:31:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:31:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:31:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:31:52 >> Inserito nuovo ingrediente a DB
+2019/10/02 13:31:52 >> Inserted Menu into MongoDB
+2019/10/02 13:31:52 >> Get all menu
+2019/10/02 13:32:36 >> Upload pdf
+2019/10/02 13:32:36 >> Parse PDF avvenuto con successo
+2019/10/02 13:32:36 >> Parse PDF avvenuto con successo
+2019/10/02 13:32:36 >> Parse PDF avvenuto con successo
+2019/10/02 13:32:36 >> Parse PDF avvenuto con successo
+2019/10/02 14:36:26 >> Upload pdf
+2019/10/02 14:36:27 >> Parse PDF avvenuto con successo
+2019/10/02 14:36:27 >> File created
+2019/10/02 14:36:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:36:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:36:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:36:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:36:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:36:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:36:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:36:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:36:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:36:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:36:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:36:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:36:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:36:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:36:27 >> Inserted Menu into MongoDB
+2019/10/02 14:36:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:36:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:36:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:36:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:36:27 >> Get all menu
+2019/10/02 14:37:17 >> Upload pdf
+2019/10/02 14:37:18 >> Parse PDF avvenuto con successo
+2019/10/02 14:37:18 >> Parse PDF avvenuto con successo
+2019/10/02 14:37:18 >> Parse PDF avvenuto con successo
+2019/10/02 14:37:18 >> Parse PDF avvenuto con successo
+2019/10/02 14:37:35 >> Get all menu
+2019/10/02 14:37:40 >> Get all menu
+2019/10/02 14:37:47 >> Upload pdf
+2019/10/02 14:37:48 >> File created
+2019/10/02 14:37:48 >> Parse PDF avvenuto con successo
+2019/10/02 14:37:48 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:37:48 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:37:48 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:37:48 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:37:48 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:37:48 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:37:48 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:37:48 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:37:48 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:37:48 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:37:48 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:37:48 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:37:48 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:37:48 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:37:48 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:37:48 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:37:48 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:37:48 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:37:48 >> Inserted Menu into MongoDB
+2019/10/02 14:37:48 >> Get all menu
+2019/10/02 14:37:56 >> Get all menu
+2019/10/02 14:38:02 >> Upload pdf
+2019/10/02 14:38:02 >> Parse PDF avvenuto con successo
+2019/10/02 14:38:02 >> Parse PDF avvenuto con successo
+2019/10/02 14:38:02 >> Parse PDF avvenuto con successo
+2019/10/02 14:38:02 >> Parse PDF avvenuto con successo
+2019/10/02 14:41:34 >> Get all menu
+2019/10/02 14:41:37 >> Upload pdf
+2019/10/02 14:45:55 >> Get all menu
+2019/10/02 14:46:00 >> Upload pdf
+2019/10/02 14:48:20 >> Get all menu
+2019/10/02 14:48:23 >> Upload pdf
+2019/10/02 14:48:23 >> File created
+2019/10/02 14:48:27 >> Upload pdf
+2019/10/02 14:48:28 >> File created
+2019/10/02 14:48:35 >> Upload pdf
+2019/10/02 14:48:35 >> File created
+2019/10/02 14:49:16 >> Get all menu
+2019/10/02 14:49:18 >> Upload pdf
+2019/10/02 14:49:18 >> File created
+2019/10/02 14:50:31 >> Get all menu
+2019/10/02 14:50:33 >> Upload pdf
+2019/10/02 14:50:34 >> File created
+2019/10/02 14:50:34 >> Parse PDF avvenuto con successo
+2019/10/02 14:50:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:34 >> Inserted Menu into MongoDB
+2019/10/02 14:50:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:34 >> Get all menu
+2019/10/02 14:50:40 >> Upload pdf
+2019/10/02 14:50:40 >> File created
+2019/10/02 14:50:40 >> Parse PDF avvenuto con successo
+2019/10/02 14:50:40 >> Parse PDF avvenuto con successo
+2019/10/02 14:50:40 >> Parse PDF avvenuto con successo
+2019/10/02 14:50:40 >> Parse PDF avvenuto con successo
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:50:40 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:51:12 >> Get all menu
+2019/10/02 14:51:15 >> Upload pdf
+2019/10/02 14:51:15 >> Parse PDF avvenuto con successo
+2019/10/02 14:51:15 >> File created
+2019/10/02 14:51:15 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:51:15 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:51:15 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:51:15 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:51:15 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:51:15 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:51:15 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:51:15 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:51:15 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:51:15 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:51:15 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:51:15 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:51:15 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:51:15 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:51:15 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:51:15 >> Inserted Menu into MongoDB
+2019/10/02 14:51:15 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:51:15 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:51:15 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:51:15 >> Get all menu
+2019/10/02 14:51:19 >> Upload pdf
+2019/10/02 14:51:20 >> Parse PDF avvenuto con successo
+2019/10/02 14:51:20 >> Parse PDF avvenuto con successo
+2019/10/02 14:52:25 >> Get all menu
+2019/10/02 14:52:30 >> Get all menu
+2019/10/02 14:52:37 >> Upload pdf
+2019/10/02 14:52:37 >> File created
+2019/10/02 14:52:37 >> Parse PDF avvenuto con successo
+2019/10/02 14:52:37 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:52:37 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:52:37 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:52:37 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:52:37 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:52:37 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:52:37 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:52:37 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:52:37 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:52:37 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:52:37 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:52:37 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:52:37 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:52:37 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:52:37 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:52:37 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:52:37 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:52:37 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:52:37 >> Inserted Menu into MongoDB
+2019/10/02 14:52:37 >> Get all menu
+2019/10/02 14:52:55 >> Get all menu
+2019/10/02 14:52:58 >> Upload pdf
+2019/10/02 14:52:58 >> File created
+2019/10/02 14:52:58 >> Parse PDF avvenuto con successo
+2019/10/02 14:52:58 >> Parse PDF avvenuto con successo
+2019/10/02 14:52:58 >> Parse PDF avvenuto con successo
+2019/10/02 14:52:58 >> Parse PDF avvenuto con successo
+2019/10/02 14:56:51 >> Get all menu
+2019/10/02 14:56:57 >> Get all menu
+2019/10/02 14:57:02 >> Get all menu
+2019/10/02 14:57:22 >> Get all menu
+2019/10/02 14:57:26 >> Upload pdf
+2019/10/02 14:57:27 >> File created
+2019/10/02 14:57:27 >> Parse PDF avvenuto con successo
+2019/10/02 14:57:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:57:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:57:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:57:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:57:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:57:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:57:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:57:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:57:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:57:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:57:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:57:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:57:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:57:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:57:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:57:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:57:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:57:27 >> Inserted Menu into MongoDB
+2019/10/02 14:57:27 >> Inserito nuovo ingrediente a DB
+2019/10/02 14:57:27 >> Get all menu
+2019/10/02 14:57:34 >> Upload pdf
+2019/10/02 14:57:34 >> File created
+2019/10/02 14:57:34 >> Parse PDF avvenuto con successo
+2019/10/02 14:57:34 >> Parse PDF avvenuto con successo
+2019/10/02 14:57:34 >> Parse PDF avvenuto con successo
+2019/10/02 14:57:34 >> Parse PDF avvenuto con successo
+2019/10/02 15:02:00 >> Get all menu
+2019/10/02 15:02:07 >> Upload pdf
+2019/10/02 15:02:08 >> Parse PDF avvenuto con successo
+2019/10/02 15:02:08 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:08 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:08 >> File created
+2019/10/02 15:02:08 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:08 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:08 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:08 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:08 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:08 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:08 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:08 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:08 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:08 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:08 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:08 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:08 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:08 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:08 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:08 >> Inserted Menu into MongoDB
+2019/10/02 15:02:08 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:08 >> Get all menu
+2019/10/02 15:02:31 >> Get all menu
+2019/10/02 15:02:33 >> Upload pdf
+2019/10/02 15:02:34 >> Parse PDF avvenuto con successo
+2019/10/02 15:02:34 >> File created
+2019/10/02 15:02:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:34 >> Inserted Menu into MongoDB
+2019/10/02 15:02:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:34 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:02:34 >> Get all menu
+2019/10/02 15:03:33 >> Upload pdf
+2019/10/02 15:03:33 >> Parse PDF avvenuto con successo
+2019/10/02 15:03:33 >> Parse PDF avvenuto con successo
+2019/10/02 15:03:33 >> Parse PDF avvenuto con successo
+2019/10/02 15:03:33 >> Parse PDF avvenuto con successo
+2019/10/02 15:06:13 >> Get all menu
+2019/10/02 15:06:17 >> Get all menu
+2019/10/02 15:06:20 >> Upload pdf
+2019/10/02 15:06:20 >> Parse PDF avvenuto con successo
+2019/10/02 15:06:21 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:06:21 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:06:21 >> File created
+2019/10/02 15:06:21 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:06:21 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:06:21 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:06:21 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:06:21 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:06:21 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:06:21 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:06:21 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:06:21 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:06:21 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:06:21 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:06:21 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:06:21 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:06:21 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:06:21 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:06:21 >> Inserted Menu into MongoDB
+2019/10/02 15:06:21 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:06:21 >> Get all menu
+2019/10/02 15:06:24 >> Upload pdf
+2019/10/02 15:06:25 >> File created
+2019/10/02 15:06:25 >> Parse PDF avvenuto con successo
+2019/10/02 15:06:25 >> Parse PDF avvenuto con successo
+2019/10/02 15:06:25 >> Parse PDF avvenuto con successo
+2019/10/02 15:06:25 >> Parse PDF avvenuto con successo
+2019/10/02 15:12:58 >> Get all menu
+2019/10/02 15:13:01 >> Upload pdf
+2019/10/02 15:13:01 >> Parse PDF avvenuto con successo
+2019/10/02 15:13:01 >> File created
+2019/10/02 15:13:01 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:01 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:01 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:01 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:01 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:01 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:01 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:01 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:01 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:01 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:01 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:01 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:01 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:01 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:01 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:01 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:01 >> Inserted Menu into MongoDB
+2019/10/02 15:13:01 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:01 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:07 >> Get all menu
+2019/10/02 15:13:19 >> Get all menu
+2019/10/02 15:13:22 >> Upload pdf
+2019/10/02 15:13:23 >> Parse PDF avvenuto con successo
+2019/10/02 15:13:23 >> Parse PDF avvenuto con successo
+2019/10/02 15:13:23 >> Parse PDF avvenuto con successo
+2019/10/02 15:13:23 >> Parse PDF avvenuto con successo
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserted Menu into MongoDB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserted Menu into MongoDB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserted Menu into MongoDB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:13:23 >> Inserted Menu into MongoDB
+2019/10/02 15:13:23 >> File created
+2019/10/02 15:13:24 >> Get all menu
+2019/10/02 15:13:42 >> Get all menu
+2019/10/02 15:13:46 >> Get all menu
+2019/10/02 15:14:20 >> Get all menu
+2019/10/02 15:14:52 >> Get all menu
+2019/10/02 15:14:58 >> Tentativo Login
+2019/10/02 15:14:58 >> Login Con Successo
+2019/10/02 15:15:18 >> Get all menu
+2019/10/02 15:20:22 >> Get all menu
+2019/10/02 15:20:25 >> Upload pdf
+2019/10/02 15:20:25 >> Parse PDF avvenuto con successo
+2019/10/02 15:20:25 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:20:25 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:20:25 >> File created
+2019/10/02 15:20:25 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:20:25 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:20:25 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:20:25 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:20:25 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:20:25 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:20:25 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:20:25 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:20:25 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:20:25 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:20:25 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:20:25 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:20:25 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:20:25 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:20:25 >> Inserted Menu into MongoDB
+2019/10/02 15:20:25 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:20:25 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:20:45 >> Get all menu
+2019/10/02 15:20:51 >> Get all menu
+2019/10/02 15:21:28 >> Upload pdf
+2019/10/02 15:21:28 >> Parse PDF avvenuto con successo
+2019/10/02 15:21:28 >> File created
+2019/10/02 15:21:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:21:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:21:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:21:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:21:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:21:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:21:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:21:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:21:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:21:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:21:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:21:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:21:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:21:28 >> Inserted Menu into MongoDB
+2019/10/02 15:21:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:21:49 >> Get all menu
+2019/10/02 15:22:03 >> Get all menu
+2019/10/02 15:22:09 >> Upload pdf
+2019/10/02 15:22:10 >> File created
+2019/10/02 15:22:10 >> Parse PDF avvenuto con successo
+2019/10/02 15:22:10 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:22:10 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:22:10 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:22:10 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:22:10 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:22:10 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:22:10 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:22:10 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:22:10 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:22:10 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:22:10 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:22:10 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:22:10 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:22:10 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:22:10 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:22:10 >> Inserted Menu into MongoDB
+2019/10/02 15:22:10 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:22:10 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:22:10 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:23:06 >> Get all menu
+2019/10/02 15:23:09 >> Upload pdf
+2019/10/02 15:23:09 >> File created
+2019/10/02 15:23:09 >> Parse PDF avvenuto con successo
+2019/10/02 15:23:09 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:23:09 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:23:09 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:23:09 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:23:09 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:23:09 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:23:09 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:23:09 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:23:09 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:23:09 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:23:09 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:23:09 >> Inserted Menu into MongoDB
+2019/10/02 15:23:09 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:23:09 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:23:09 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:23:09 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:23:09 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:23:09 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:23:09 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:23:22 >> Get all menu
+2019/10/02 15:23:42 >> Get all menu
+2019/10/02 15:24:22 >> Get all menu
+2019/10/02 15:24:27 >> Upload pdf
+2019/10/02 15:24:28 >> File created
+2019/10/02 15:24:28 >> Parse PDF avvenuto con successo
+2019/10/02 15:24:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:24:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:24:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:24:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:24:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:24:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:24:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:24:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:24:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:24:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:24:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:24:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:24:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:24:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:24:28 >> Inserted Menu into MongoDB
+2019/10/02 15:24:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:24:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:24:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:24:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:24:28 >> Get all menu
+2019/10/02 15:24:34 >> Upload pdf
+2019/10/02 15:24:34 >> File created
+2019/10/02 15:24:34 >> Parse PDF avvenuto con successo
+2019/10/02 15:24:34 >> Parse PDF avvenuto con successo
+2019/10/02 15:24:34 >> Parse PDF avvenuto con successo
+2019/10/02 15:24:34 >> Parse PDF avvenuto con successo
+2019/10/02 15:25:22 >> Tentativo Login
+2019/10/02 15:25:23 >> Login Con Successo
+2019/10/02 15:25:23 >> Get all menu
+2019/10/02 15:25:26 >> Upload pdf
+2019/10/02 15:25:26 >> Parse PDF avvenuto con successo
+2019/10/02 15:25:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:25:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:25:26 >> File created
+2019/10/02 15:25:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:25:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:25:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:25:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:25:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:25:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:25:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:25:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:25:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:25:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:25:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:25:26 >> Inserted Menu into MongoDB
+2019/10/02 15:25:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:25:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:25:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:25:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:25:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:25:26 >> Get all menu
+2019/10/02 15:25:39 >> Upload pdf
+2019/10/02 15:25:39 >> Parse PDF avvenuto con successo
+2019/10/02 15:25:39 >> Parse PDF avvenuto con successo
+2019/10/02 15:25:39 >> Parse PDF avvenuto con successo
+2019/10/02 15:25:39 >> Parse PDF avvenuto con successo
+2019/10/02 15:28:29 >> Tentativo Login
+2019/10/02 15:28:29 >> Login Con Successo
+2019/10/02 15:28:29 >> Get all menu
+2019/10/02 15:28:40 >> Get all menu
+2019/10/02 15:29:09 >> Get all menu
+2019/10/02 15:29:19 >> Get all menu
+2019/10/02 15:29:23 >> Get all menu
+2019/10/02 15:30:51 >> Get all menu
+2019/10/02 15:30:55 >> Upload pdf
+2019/10/02 15:30:55 >> Parse PDF avvenuto con successo
+2019/10/02 15:30:55 >> File created
+2019/10/02 15:30:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:30:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:30:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:30:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:30:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:30:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:30:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:30:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:30:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:30:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:30:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:30:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:30:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:30:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:30:55 >> Inserted Menu into MongoDB
+2019/10/02 15:30:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:30:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:30:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:30:55 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:30:55 >> Get all menu
+2019/10/02 15:30:59 >> Upload pdf
+2019/10/02 15:30:59 >> Parse PDF avvenuto con successo
+2019/10/02 15:30:59 >> Parse PDF avvenuto con successo
+2019/10/02 15:30:59 >> Parse PDF avvenuto con successo
+2019/10/02 15:30:59 >> Parse PDF avvenuto con successo
+2019/10/02 15:31:53 >> Get all menu
+2019/10/02 15:32:01 >> Get all menu
+2019/10/02 15:32:37 >> Get all menu
+2019/10/02 15:33:25 >> Get all menu
+2019/10/02 15:33:30 >> Upload pdf
+2019/10/02 15:33:30 >> Parse PDF avvenuto con successo
+2019/10/02 15:33:30 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:33:30 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:33:30 >> File created
+2019/10/02 15:33:30 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:33:30 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:33:30 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:33:30 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:33:30 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:33:30 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:33:30 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:33:30 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:33:30 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:33:30 >> Inserted Menu into MongoDB
+2019/10/02 15:33:30 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:33:30 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:33:30 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:33:30 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:33:30 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:33:30 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:33:30 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:33:30 >> Get all menu
+2019/10/02 15:33:38 >> Upload pdf
+2019/10/02 15:33:39 >> Parse PDF avvenuto con successo
+2019/10/02 15:33:39 >> Parse PDF avvenuto con successo
+2019/10/02 15:33:39 >> Parse PDF avvenuto con successo
+2019/10/02 15:33:39 >> Parse PDF avvenuto con successo
+2019/10/02 15:39:39 >> Get all menu
+2019/10/02 15:40:07 >> Get all menu
+2019/10/02 15:40:12 >> Get all menu
+2019/10/02 15:40:26 >> Get all menu
+2019/10/02 15:40:28 >> Upload pdf
+2019/10/02 15:40:28 >> Parse PDF avvenuto con successo
+2019/10/02 15:40:28 >> File created
+2019/10/02 15:40:28 >> Get all menu
+2019/10/02 15:40:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:40:28 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:40:29 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:40:29 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:40:29 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:40:29 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:40:29 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:40:29 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:40:29 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:40:29 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:40:29 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:40:29 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:40:29 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:40:29 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:40:29 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:40:29 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:40:29 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:40:29 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:40:32 >> Upload pdf
+2019/10/02 15:40:52 >> Get all menu
+2019/10/02 15:40:55 >> Upload pdf
+2019/10/02 15:40:55 >> Parse PDF avvenuto con successo
+2019/10/02 15:40:55 >> File created
+2019/10/02 15:40:55 >> Get all menu
+2019/10/02 15:40:59 >> Upload pdf
+2019/10/02 15:41:15 >> Get all menu
+2019/10/02 15:41:17 >> Upload pdf
+2019/10/02 15:41:17 >> Get all menu
+2019/10/02 15:41:22 >> Upload pdf
+2019/10/02 15:41:22 >> Get all menu
+2019/10/02 15:41:33 >> Upload pdf
+2019/10/02 15:41:33 >> Get all menu
+2019/10/02 15:41:40 >> Upload pdf
+2019/10/02 15:41:40 >> Get all menu
+2019/10/02 15:41:54 >> Get all menu
+2019/10/02 15:41:57 >> Upload pdf
+2019/10/02 15:41:57 >> Get all menu
+2019/10/02 15:42:01 >> Upload pdf
+2019/10/02 15:42:01 >> Get all menu
+2019/10/02 15:42:05 >> Upload pdf
+2019/10/02 15:42:05 >> Get all menu
+2019/10/02 15:42:24 >> Get all menu
+2019/10/02 15:42:26 >> Upload pdf
+2019/10/02 15:42:26 >> File created
+2019/10/02 15:42:26 >> Get all menu
+2019/10/02 15:42:29 >> Upload pdf
+2019/10/02 15:42:29 >> File created
+2019/10/02 15:42:29 >> Get all menu
+2019/10/02 15:42:53 >> Get all menu
+2019/10/02 15:42:56 >> Upload pdf
+2019/10/02 15:42:56 >> Get all menu
+2019/10/02 15:42:56 >> Parse PDF avvenuto con successo
+2019/10/02 15:42:56 >> File created
+2019/10/02 15:43:01 >> Upload pdf
+2019/10/02 15:43:01 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:01 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:01 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:01 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:01 >> File created
+2019/10/02 15:43:01 >> Get all menu
+2019/10/02 15:43:06 >> Upload pdf
+2019/10/02 15:43:06 >> Get all menu
+2019/10/02 15:43:06 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:06 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:06 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:06 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:06 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:06 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:06 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:06 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:06 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:06 >> File created
+2019/10/02 15:43:23 >> Get all menu
+2019/10/02 15:43:26 >> Upload pdf
+2019/10/02 15:43:26 >> Get all menu
+2019/10/02 15:43:26 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:26 >> File created
+2019/10/02 15:43:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:26 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:30 >> Upload pdf
+2019/10/02 15:43:31 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:31 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:31 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:31 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:31 >> Get all menu
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:31 >> File created
+2019/10/02 15:43:35 >> Upload pdf
+2019/10/02 15:43:35 >> Get all menu
+2019/10/02 15:43:35 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:35 >> File created
+2019/10/02 15:43:35 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:35 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:35 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:35 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:35 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:35 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:35 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:35 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:35 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:35 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:35 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:35 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:35 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:35 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:35 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:35 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:35 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:35 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:49 >> Get all menu
+2019/10/02 15:43:51 >> Upload pdf
+2019/10/02 15:43:51 >> Get all menu
+2019/10/02 15:43:51 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:51 >> File created
+2019/10/02 15:43:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:51 >> Inserted Menu into MongoDB
+2019/10/02 15:43:55 >> Upload pdf
+2019/10/02 15:43:56 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:56 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:56 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:56 >> Parse PDF avvenuto con successo
+2019/10/02 15:43:56 >> Get all menu
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserted Menu into MongoDB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserted Menu into MongoDB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserted Menu into MongoDB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> Inserted Menu into MongoDB
+2019/10/02 15:43:56 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:43:56 >> File created
+2019/10/02 15:44:12 >> Get all menu
+2019/10/02 15:44:17 >> Upload pdf
+2019/10/02 15:44:18 >> Parse PDF avvenuto con successo
+2019/10/02 15:44:18 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:18 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:18 >> File created
+2019/10/02 15:44:18 >> Get all menu
+2019/10/02 15:44:18 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:18 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:18 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:18 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:18 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:18 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:18 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:18 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:18 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:18 >> Inserted Menu into MongoDB
+2019/10/02 15:44:18 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:18 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:18 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:40 >> Get all menu
+2019/10/02 15:44:48 >> Get all menu
+2019/10/02 15:44:51 >> Upload pdf
+2019/10/02 15:44:51 >> Get all menu
+2019/10/02 15:44:51 >> Parse PDF avvenuto con successo
+2019/10/02 15:44:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:51 >> File created
+2019/10/02 15:44:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:51 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:44:51 >> Inserted Menu into MongoDB
+2019/10/02 15:44:55 >> Get all menu
+2019/10/02 15:45:01 >> Upload pdf
+2019/10/02 15:45:01 >> Parse PDF avvenuto con successo
+2019/10/02 15:45:01 >> Parse PDF avvenuto con successo
+2019/10/02 15:45:01 >> Parse PDF avvenuto con successo
+2019/10/02 15:45:01 >> Parse PDF avvenuto con successo
+2019/10/02 15:45:02 >> Get all menu
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserted Menu into MongoDB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserted Menu into MongoDB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserted Menu into MongoDB
+2019/10/02 15:45:02 >> Inserito nuovo ingrediente a DB
+2019/10/02 15:45:02 >> Inserted Menu into MongoDB
+2019/10/02 15:45:02 >> File created
+2019/10/02 15:46:36 >> Get all menu
+2019/10/02 15:46:41 >> Get all menu
+2019/10/02 15:46:44 >> Upload pdf
+2019/10/02 15:46:44 >> Parse PDF avvenuto con successo
+2019/10/02 15:46:44 >> File created
+2019/10/02 15:46:44 >> Get all menu
+2019/10/02 15:46:45 >> Inserted Menu into MongoDB
+2019/10/02 15:46:54 >> Upload pdf
+2019/10/02 15:46:55 >> Parse PDF avvenuto con successo
+2019/10/02 15:46:55 >> Parse PDF avvenuto con successo
+2019/10/02 15:46:55 >> Parse PDF avvenuto con successo
+2019/10/02 15:46:55 >> Parse PDF avvenuto con successo
+2019/10/02 15:46:55 >> Inserted Menu into MongoDB
+2019/10/02 15:46:55 >> Inserted Menu into MongoDB
+2019/10/02 15:46:55 >> Inserted Menu into MongoDB
+2019/10/02 15:46:55 >> Inserted Menu into MongoDB
+2019/10/02 15:46:55 >> Get all menu
+2019/10/02 15:46:55 >> File created
+2019/10/02 15:55:00 >> Get all menu
+2019/10/02 15:55:06 >> Get all menu
+2019/10/02 15:55:08 >> Upload pdf
+2019/10/02 15:55:08 >> Get all menu
+2019/10/02 15:55:08 >> Parse PDF avvenuto con successo
+2019/10/02 15:55:08 >> File created
+2019/10/02 15:55:08 >> Inserted Menu into MongoDB
+2019/10/02 15:55:15 >> Upload pdf
+2019/10/02 15:55:15 >> Parse PDF avvenuto con successo
+2019/10/02 15:55:15 >> Parse PDF avvenuto con successo
+2019/10/02 15:55:15 >> Parse PDF avvenuto con successo
+2019/10/02 15:55:15 >> Parse PDF avvenuto con successo
+2019/10/02 15:55:15 >> Get all menu
+2019/10/02 15:55:15 >> File created
+2019/10/02 15:55:15 >> Inserted Menu into MongoDB
+2019/10/02 15:55:15 >> Inserted Menu into MongoDB
+2019/10/02 15:55:15 >> Inserted Menu into MongoDB
+2019/10/02 15:55:15 >> Inserted Menu into MongoDB
+2019/10/02 15:56:08 >> Upload pdf
+2019/10/02 15:56:08 >> Parse PDF avvenuto con successo
+2019/10/02 15:56:08 >> Parse PDF avvenuto con successo
+2019/10/02 15:56:08 >> Parse PDF avvenuto con successo
+2019/10/02 15:56:08 >> Parse PDF avvenuto con successo
+2019/10/02 15:56:08 >> Parse PDF avvenuto con successo
+2019/10/02 15:56:08 >> Parse PDF avvenuto con successo
+2019/10/02 15:56:08 >> Parse PDF avvenuto con successo
+2019/10/02 15:56:08 >> Parse PDF avvenuto con successo
+2019/10/02 15:56:08 >> Parse PDF avvenuto con successo
+2019/10/02 15:56:08 >> Get all menu
+2019/10/02 15:56:08 >> Inserted Menu into MongoDB
+2019/10/02 15:56:08 >> Inserted Menu into MongoDB
+2019/10/02 15:56:08 >> File created
+2019/10/02 15:56:08 >> Inserted Menu into MongoDB
+2019/10/02 15:56:09 >> Inserted Menu into MongoDB
+2019/10/02 15:56:09 >> Inserted Menu into MongoDB
+2019/10/02 15:56:09 >> Inserted Menu into MongoDB
+2019/10/02 15:56:09 >> Inserted Menu into MongoDB
+2019/10/02 15:56:09 >> Inserted Menu into MongoDB
+2019/10/02 15:56:09 >> Inserted Menu into MongoDB
+2019/10/02 15:57:07 >> Get all menu
+2019/10/02 15:57:10 >> Upload pdf
+2019/10/02 15:57:10 >> Get all menu
+2019/10/02 15:57:10 >> Parse PDF avvenuto con successo
+2019/10/02 15:57:10 >> File created
+2019/10/02 15:57:18 >> Upload pdf
+2019/10/02 15:57:18 >> Parse PDF avvenuto con successo
+2019/10/02 15:57:18 >> Parse PDF avvenuto con successo
+2019/10/02 15:57:18 >> Get all menu
+2019/10/02 15:57:18 >> File created
+2019/10/02 15:57:40 >> Upload pdf
+2019/10/02 15:57:40 >> Parse PDF avvenuto con successo
+2019/10/02 15:57:40 >> Parse PDF avvenuto con successo
+2019/10/02 15:57:40 >> Parse PDF avvenuto con successo
+2019/10/02 15:57:40 >> File created
+2019/10/02 15:57:40 >> Get all menu
+2019/10/02 15:58:07 >> Get all menu
+2019/10/02 15:58:10 >> Upload pdf
+2019/10/02 15:58:10 >> Get all menu
+2019/10/02 15:58:10 >> Parse PDF avvenuto con successo
+2019/10/02 15:58:10 >> Parse PDF avvenuto con successo
+2019/10/02 15:58:10 >> Parse PDF avvenuto con successo
+2019/10/02 15:58:10 >> Parse PDF avvenuto con successo
+2019/10/02 15:58:10 >> File created
+2019/10/02 15:58:14 >> Upload pdf
+2019/10/02 15:58:14 >> Parse PDF avvenuto con successo
+2019/10/02 15:58:14 >> Parse PDF avvenuto con successo
+2019/10/02 15:58:14 >> Parse PDF avvenuto con successo
+2019/10/02 15:58:14 >> Parse PDF avvenuto con successo
+2019/10/02 15:58:14 >> Parse PDF avvenuto con successo
+2019/10/02 15:58:14 >> Get all menu
+2019/10/02 15:58:14 >> File created
+2019/10/02 15:58:17 >> Upload pdf
+2019/10/02 15:58:18 >> Parse PDF avvenuto con successo
+2019/10/02 15:58:18 >> Parse PDF avvenuto con successo
+2019/10/02 15:58:18 >> Parse PDF avvenuto con successo
+2019/10/02 15:58:18 >> Parse PDF avvenuto con successo
+2019/10/02 15:58:18 >> Parse PDF avvenuto con successo
+2019/10/02 15:58:18 >> Parse PDF avvenuto con successo
+2019/10/02 15:58:18 >> Get all menu
+2019/10/02 15:58:18 >> File created
+2019/10/02 15:58:32 >> Get all menu
+2019/10/02 15:58:34 >> Upload pdf
+2019/10/02 15:58:34 >> Get all menu
+2019/10/02 15:58:34 >> Parse PDF avvenuto con successo
+2019/10/02 15:58:34 >> File created
+2019/10/02 15:59:03 >> Upload pdf
+2019/10/02 15:59:03 >> Parse PDF avvenuto con successo
+2019/10/02 15:59:03 >> Parse PDF avvenuto con successo
+2019/10/02 15:59:03 >> File created
+2019/10/02 15:59:03 >> Get all menu
+2019/10/02 16:00:44 >> Get all menu
+2019/10/02 16:00:46 >> Upload pdf
+2019/10/02 16:00:46 >> File created
+2019/10/02 16:00:46 >> Get all menu
+2019/10/02 16:00:46 >> Parse PDF avvenuto con successo
+2019/10/02 16:00:51 >> Upload pdf
+2019/10/02 16:00:51 >> File created
+2019/10/02 16:00:51 >> Get all menu
+2019/10/02 16:00:51 >> Parse PDF avvenuto con successo
+2019/10/02 16:00:51 >> Parse PDF avvenuto con successo
+2019/10/02 16:01:10 >> Get all menu
+2019/10/02 16:01:13 >> Upload pdf
+2019/10/02 16:01:13 >> File created
+2019/10/02 16:01:13 >> Get all menu
+2019/10/02 16:01:13 >> Parse PDF avvenuto con successo
+2019/10/02 16:01:17 >> Upload pdf
+2019/10/02 16:01:17 >> File created
+2019/10/02 16:01:17 >> Get all menu
+2019/10/02 16:01:17 >> Parse PDF avvenuto con successo
+2019/10/02 16:01:17 >> Parse PDF avvenuto con successo
+2019/10/02 16:01:37 >> Upload pdf
+2019/10/02 16:01:37 >> File created
+2019/10/02 16:01:37 >> Get all menu
+2019/10/02 16:01:37 >> Parse PDF avvenuto con successo
+2019/10/02 16:01:37 >> Parse PDF avvenuto con successo
+2019/10/02 16:01:37 >> Parse PDF avvenuto con successo
+2019/10/02 16:13:27 >> Get all menu
+2019/10/02 16:13:33 >> Upload pdf
+2019/10/02 16:13:33 >> File created
+2019/10/02 16:13:33 >> Get all menu
+2019/10/02 16:13:43 >> Upload pdf
+2019/10/02 16:13:43 >> Get all menu
+2019/10/02 16:13:43 >> File created
+2019/10/02 16:22:02 >> Get all menu
+2019/10/02 16:22:05 >> Upload pdf
+2019/10/02 16:22:05 >> File created
+2019/10/02 16:22:05 >> Get all menu
+2019/10/02 16:24:11 >> Get all menu
+2019/10/02 16:24:15 >> Upload pdf
+2019/10/02 16:24:15 >> Get all menu
+2019/10/02 16:24:15 >> File created
+2019/10/03 08:57:21 >> Get all menu
+2019/10/03 08:57:26 >> Upload pdf
+2019/10/03 08:57:26 >> File created
+2019/10/03 08:57:26 >> Get all menu
+2019/10/03 09:03:05 >> Get all menu
+2019/10/03 09:03:08 >> Upload pdf
+2019/10/03 09:03:08 >> File created
+2019/10/03 09:03:08 >> Get all menu
+2019/10/03 09:03:08 >> Parse PDF avvenuto con successo
+2019/10/03 09:03:23 >> Upload pdf
+2019/10/03 09:03:23 >> File created
+2019/10/03 09:03:23 >> Get all menu
+2019/10/03 09:03:24 >> Parse PDF avvenuto con successo
+2019/10/03 09:03:24 >> Parse PDF avvenuto con successo
+2019/10/03 09:03:28 >> Upload pdf
+2019/10/03 09:03:28 >> File created
+2019/10/03 09:03:28 >> Get all menu
+2019/10/03 09:03:28 >> Parse PDF avvenuto con successo
+2019/10/03 09:03:28 >> Parse PDF avvenuto con successo
+2019/10/03 09:03:28 >> Parse PDF avvenuto con successo
+2019/10/03 09:04:42 >> Upload pdf
+2019/10/03 09:04:42 >> Get all menu
+2019/10/03 09:04:42 >> File created
+2019/10/03 09:05:40 >> Get all menu
+2019/10/03 09:05:43 >> Upload pdf
+2019/10/03 09:06:02 >> Get all menu
+2019/10/03 09:06:04 >> Upload pdf
+2019/10/03 09:06:05 >> File created
+2019/10/03 09:06:05 >> Parse PDF avvenuto con successo
+2019/10/03 09:06:05 >> Inserted Menu into MongoDB
+2019/10/03 09:06:05 >> Get all menu
+2019/10/03 09:06:11 >> Upload pdf
+2019/10/03 09:06:11 >> File created
+2019/10/03 09:06:11 >> Parse PDF avvenuto con successo
+2019/10/03 09:06:11 >> Parse PDF avvenuto con successo
+2019/10/03 09:06:11 >> Parse PDF avvenuto con successo
+2019/10/03 09:06:11 >> Parse PDF avvenuto con successo
+2019/10/03 09:06:33 >> Get all menu
+2019/10/03 09:06:40 >> Upload pdf
+2019/10/03 09:06:40 >> Parse PDF avvenuto con successo
+2019/10/03 09:06:40 >> Get all menu
+2019/10/03 09:06:40 >> File created
+2019/10/03 09:06:40 >> Inserted Menu into MongoDB
+2019/10/03 09:06:44 >> Upload pdf
+2019/10/03 09:06:44 >> Get all menu
+2019/10/03 09:06:44 >> Parse PDF avvenuto con successo
+2019/10/03 09:06:44 >> Parse PDF avvenuto con successo
+2019/10/03 09:06:44 >> Parse PDF avvenuto con successo
+2019/10/03 09:06:44 >> Parse PDF avvenuto con successo
+2019/10/03 09:06:44 >> File created
+2019/10/03 09:06:44 >> Inserted Menu into MongoDB
+2019/10/03 09:06:57 >> Upload pdf
+2019/10/03 09:06:57 >> Parse PDF avvenuto con successo
+2019/10/03 09:06:57 >> Parse PDF avvenuto con successo
+2019/10/03 09:06:57 >> Parse PDF avvenuto con successo
+2019/10/03 09:06:57 >> Parse PDF avvenuto con successo
+2019/10/03 09:06:57 >> Parse PDF avvenuto con successo
+2019/10/03 09:06:57 >> Parse PDF avvenuto con successo
+2019/10/03 09:06:57 >> Parse PDF avvenuto con successo
+2019/10/03 09:06:57 >> Parse PDF avvenuto con successo
+2019/10/03 09:06:57 >> Parse PDF avvenuto con successo
+2019/10/03 09:06:57 >> Get all menu
+2019/10/03 09:06:57 >> File created
+2019/10/03 09:06:57 >> Inserted Menu into MongoDB
+2019/10/03 09:07:27 >> Get all menu
+2019/10/03 09:07:30 >> Upload pdf
+2019/10/03 09:07:30 >> Get all menu
+2019/10/03 09:07:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:07:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:07:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:07:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:07:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:07:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:07:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:07:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:07:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:07:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:07:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:07:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:07:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:07:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:07:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:07:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:07:30 >> File created
+2019/10/03 09:07:30 >> Inserted Menu into MongoDB
+2019/10/03 09:07:38 >> Get all menu
+2019/10/03 09:08:09 >> Get all menu
+2019/10/03 09:08:18 >> Get all menu
+2019/10/03 09:08:22 >> Upload pdf
+2019/10/03 09:08:23 >> Get all menu
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:08:23 >> File created
+2019/10/03 09:08:23 >> Inserted Menu into MongoDB
+2019/10/03 09:08:32 >> Get all menu
+2019/10/03 09:09:03 >> Get all menu
+2019/10/03 09:09:06 >> Upload pdf
+2019/10/03 09:09:06 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:06 >> Get all menu
+2019/10/03 09:09:06 >> File created
+2019/10/03 09:09:06 >> Inserted Menu into MongoDB
+2019/10/03 09:09:11 >> Upload pdf
+2019/10/03 09:09:12 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:12 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:12 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:12 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:12 >> File created
+2019/10/03 09:09:12 >> Get all menu
+2019/10/03 09:09:12 >> Inserted Menu into MongoDB
+2019/10/03 09:09:29 >> Upload pdf
+2019/10/03 09:09:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:30 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:30 >> Get all menu
+2019/10/03 09:09:30 >> Inserted Menu into MongoDB
+2019/10/03 09:09:30 >> File created
+2019/10/03 09:09:54 >> Upload pdf
+2019/10/03 09:09:54 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:54 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:54 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:54 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:54 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:54 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:54 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:54 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:54 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:54 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:54 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:54 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:54 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:54 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:54 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:54 >> Parse PDF avvenuto con successo
+2019/10/03 09:09:54 >> Get all menu
+2019/10/03 09:09:54 >> File created
+2019/10/03 09:09:54 >> Inserted Menu into MongoDB
+2019/10/03 09:10:07 >> Upload pdf
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> Parse PDF avvenuto con successo
+2019/10/03 09:10:07 >> File created
+2019/10/03 09:10:07 >> Get all menu
+2019/10/03 09:10:07 >> Inserted Menu into MongoDB
+2019/10/03 09:12:20 >> Get all menu
+2019/10/03 09:12:25 >> Upload pdf
+2019/10/03 09:12:25 >> Get all menu
+2019/10/03 09:12:25 >> Parse PDF avvenuto con successo
+2019/10/03 09:12:25 >> File created
+2019/10/03 09:12:25 >> Inserted Menu into MongoDB
+2019/10/03 09:12:31 >> Upload pdf
+2019/10/03 09:12:31 >> File created
+2019/10/03 09:12:31 >> Get all menu
+2019/10/03 09:12:31 >> Parse PDF avvenuto con successo
+2019/10/03 09:12:31 >> Parse PDF avvenuto con successo
+2019/10/03 09:12:31 >> Parse PDF avvenuto con successo
+2019/10/03 09:12:31 >> Parse PDF avvenuto con successo
+2019/10/03 09:12:31 >> Inserted Menu into MongoDB
+2019/10/03 09:12:35 >> Upload pdf
+2019/10/03 09:12:36 >> Get all menu
+2019/10/03 09:12:36 >> Parse PDF avvenuto con successo
+2019/10/03 09:12:36 >> Parse PDF avvenuto con successo
+2019/10/03 09:12:36 >> Parse PDF avvenuto con successo
+2019/10/03 09:12:36 >> Parse PDF avvenuto con successo
+2019/10/03 09:12:36 >> Parse PDF avvenuto con successo
+2019/10/03 09:12:36 >> Parse PDF avvenuto con successo
+2019/10/03 09:12:36 >> Parse PDF avvenuto con successo
+2019/10/03 09:12:36 >> Parse PDF avvenuto con successo
+2019/10/03 09:12:36 >> Parse PDF avvenuto con successo
+2019/10/03 09:12:36 >> File created
+2019/10/03 09:12:36 >> Inserted Menu into MongoDB
+2019/10/03 09:13:44 >> Get all menu
+2019/10/03 09:13:50 >> Get all menu
+2019/10/03 09:13:53 >> Upload pdf
+2019/10/03 09:13:53 >> Get all menu
+2019/10/03 09:13:53 >> Parse PDF avvenuto con successo
+2019/10/03 09:13:53 >> File created
+2019/10/03 09:13:53 >> Inserted Menu into MongoDB
+2019/10/03 09:14:26 >> Get all menu
+2019/10/03 09:14:31 >> Upload pdf
+2019/10/03 09:14:31 >> Parse PDF avvenuto con successo
+2019/10/03 09:14:31 >> File created
+2019/10/03 09:14:31 >> Get all menu
+2019/10/03 09:14:31 >> Inserted Menu into MongoDB
+2019/10/03 09:14:39 >> Upload pdf
+2019/10/03 09:14:39 >> Parse PDF avvenuto con successo
+2019/10/03 09:14:39 >> Parse PDF avvenuto con successo
+2019/10/03 09:14:39 >> Parse PDF avvenuto con successo
+2019/10/03 09:14:39 >> Parse PDF avvenuto con successo
+2019/10/03 09:14:39 >> Parse PDF avvenuto con successo
+2019/10/03 09:14:39 >> Parse PDF avvenuto con successo
+2019/10/03 09:14:39 >> Get all menu
+2019/10/03 09:14:39 >> File created
+2019/10/03 09:14:39 >> Inserted Menu into MongoDB
+2019/10/03 09:14:49 >> Upload pdf
+2019/10/03 09:14:49 >> Parse PDF avvenuto con successo
+2019/10/03 09:14:49 >> Parse PDF avvenuto con successo
+2019/10/03 09:14:49 >> Parse PDF avvenuto con successo
+2019/10/03 09:14:49 >> Parse PDF avvenuto con successo
+2019/10/03 09:14:49 >> Parse PDF avvenuto con successo
+2019/10/03 09:14:49 >> Parse PDF avvenuto con successo
+2019/10/03 09:14:49 >> Parse PDF avvenuto con successo
+2019/10/03 09:14:49 >> Parse PDF avvenuto con successo
+2019/10/03 09:14:49 >> Parse PDF avvenuto con successo
+2019/10/03 09:14:49 >> Parse PDF avvenuto con successo
+2019/10/03 09:14:49 >> Parse PDF avvenuto con successo
+2019/10/03 09:14:49 >> Parse PDF avvenuto con successo
+2019/10/03 09:14:49 >> Parse PDF avvenuto con successo
+2019/10/03 09:14:49 >> Parse PDF avvenuto con successo
+2019/10/03 09:14:49 >> Parse PDF avvenuto con successo
+2019/10/03 09:14:49 >> Get all menu
+2019/10/03 09:14:49 >> File created
+2019/10/03 09:14:49 >> Inserted Menu into MongoDB
+2019/10/03 09:17:36 >> Get all menu
+2019/10/03 09:17:40 >> Get all menu
+2019/10/03 09:17:42 >> Upload pdf
+2019/10/03 09:17:42 >> Parse PDF avvenuto con successo
+2019/10/03 09:17:42 >> Get all menu
+2019/10/03 09:17:42 >> File created
+2019/10/03 09:17:42 >> Inserted Menu into MongoDB
+2019/10/03 09:17:47 >> Upload pdf
+2019/10/03 09:17:47 >> Get all menu
+2019/10/03 09:17:47 >> Parse PDF avvenuto con successo
+2019/10/03 09:17:47 >> Parse PDF avvenuto con successo
+2019/10/03 09:17:47 >> Parse PDF avvenuto con successo
+2019/10/03 09:17:47 >> Parse PDF avvenuto con successo
+2019/10/03 09:17:47 >> Parse PDF avvenuto con successo
+2019/10/03 09:17:47 >> Parse PDF avvenuto con successo
+2019/10/03 09:17:47 >> File created
+2019/10/03 09:17:47 >> Inserted Menu into MongoDB
+2019/10/03 09:19:21 >> Get all menu
+2019/10/03 09:19:27 >> Get all menu
+2019/10/03 09:19:31 >> Upload pdf
+2019/10/03 09:19:31 >> Get all menu
+2019/10/03 09:19:31 >> Parse PDF avvenuto con successo
+2019/10/03 09:19:31 >> Inserted Menu into MongoDB
+2019/10/03 09:19:31 >> File created
+2019/10/03 09:19:36 >> Upload pdf
+2019/10/03 09:19:36 >> Parse PDF avvenuto con successo
+2019/10/03 09:19:36 >> Parse PDF avvenuto con successo
+2019/10/03 09:19:36 >> Parse PDF avvenuto con successo
+2019/10/03 09:19:36 >> Parse PDF avvenuto con successo
+2019/10/03 09:19:36 >> Parse PDF avvenuto con successo
+2019/10/03 09:19:36 >> Parse PDF avvenuto con successo
+2019/10/03 09:19:36 >> Inserted Menu into MongoDB
+2019/10/03 09:19:36 >> File created
+2019/10/03 09:19:36 >> Get all menu
+2019/10/03 09:21:13 >> Get all menu
+2019/10/03 09:24:48 >> Get all menu
+2019/10/03 09:24:52 >> Get all menu
+2019/10/03 09:24:55 >> Upload pdf
+2019/10/03 09:24:55 >> Parse PDF avvenuto con successo
+2019/10/03 09:24:55 >> File created
+2019/10/03 09:24:55 >> Get all menu
+2019/10/03 09:24:55 >> Inserted Menu into MongoDB
+2019/10/03 09:24:58 >> Upload pdf
+2019/10/03 09:24:58 >> Get all menu
+2019/10/03 09:24:58 >> Parse PDF avvenuto con successo
+2019/10/03 09:24:58 >> Parse PDF avvenuto con successo
+2019/10/03 09:24:58 >> File created
+2019/10/03 09:24:58 >> Inserted Menu into MongoDB
+2019/10/03 09:25:06 >> Upload pdf
+2019/10/03 09:25:06 >> Parse PDF avvenuto con successo
+2019/10/03 09:25:06 >> Parse PDF avvenuto con successo
+2019/10/03 09:25:06 >> Parse PDF avvenuto con successo
+2019/10/03 09:25:06 >> Get all menu
+2019/10/03 09:25:06 >> File created
+2019/10/03 09:25:06 >> Inserted Menu into MongoDB
+2019/10/03 09:26:14 >> Get all menu
+2019/10/03 09:26:20 >> Get all menu
+2019/10/03 09:26:23 >> Upload pdf
+2019/10/03 09:26:23 >> Get all menu
+2019/10/03 09:26:23 >> Parse PDF avvenuto con successo
+2019/10/03 09:26:23 >> File created
+2019/10/03 09:26:23 >> Inserted Menu into MongoDB
+2019/10/03 09:26:27 >> Upload pdf
+2019/10/03 09:26:27 >> Parse PDF avvenuto con successo
+2019/10/03 09:26:27 >> Parse PDF avvenuto con successo
+2019/10/03 09:26:27 >> File created
+2019/10/03 09:26:27 >> Get all menu
+2019/10/03 09:26:27 >> Inserted Menu into MongoDB
+2019/10/03 09:26:41 >> Upload pdf
+2019/10/03 09:26:41 >> Parse PDF avvenuto con successo
+2019/10/03 09:26:41 >> Parse PDF avvenuto con successo
+2019/10/03 09:26:41 >> Parse PDF avvenuto con successo
+2019/10/03 09:26:41 >> File created
+2019/10/03 09:26:41 >> Get all menu
+2019/10/03 09:26:41 >> Inserted Menu into MongoDB
+2019/10/03 09:28:24 >> Get all menu
+2019/10/03 09:28:29 >> Get all menu
+2019/10/03 09:28:34 >> Upload pdf
+2019/10/03 09:28:34 >> Parse PDF avvenuto con successo
+2019/10/03 09:28:34 >> File created
+2019/10/03 09:28:34 >> Get all menu
+2019/10/03 09:28:34 >> Inserted Menu into MongoDB
+2019/10/03 09:28:38 >> Upload pdf
+2019/10/03 09:28:38 >> Get all menu
+2019/10/03 09:28:38 >> Parse PDF avvenuto con successo
+2019/10/03 09:28:38 >> Parse PDF avvenuto con successo
+2019/10/03 09:28:38 >> File created
+2019/10/03 09:28:38 >> Inserted Menu into MongoDB
+2019/10/03 09:30:30 >> Get all menu
+2019/10/03 09:30:37 >> Get all menu
+2019/10/03 09:30:41 >> Upload pdf
+2019/10/03 09:33:28 >> Get all menu
+2019/10/03 09:33:31 >> Upload pdf
+2019/10/03 09:33:32 >> Get all menu
+2019/10/03 09:33:32 >> Parse PDF avvenuto con successo
+2019/10/03 09:33:32 >> File created
+2019/10/03 09:33:32 >> Inserted Menu into MongoDB
+2019/10/03 09:33:36 >> Upload pdf
+2019/10/03 09:33:36 >> File created
+2019/10/03 09:33:36 >> Get all menu
+2019/10/03 09:33:44 >> Upload pdf
+2019/10/03 09:33:44 >> File created
+2019/10/03 09:33:44 >> Get all menu
+2019/10/03 09:33:49 >> Upload pdf
+2019/10/03 09:33:49 >> Get all menu
+2019/10/03 09:33:49 >> File created
+2019/10/03 09:35:05 >> Get all menu
+2019/10/03 09:35:17 >> Upload pdf
+2019/10/03 09:35:17 >> Parse PDF avvenuto con successo
+2019/10/03 09:35:17 >> Get all menu
+2019/10/03 09:35:17 >> File created
+2019/10/03 09:35:17 >> Inserted Menu into MongoDB
+2019/10/03 09:35:22 >> Get all menu
+2019/10/03 09:35:26 >> Upload pdf
+2019/10/03 09:35:26 >> File created
+2019/10/03 09:35:26 >> Get all menu
+2019/10/03 09:35:30 >> Upload pdf
+2019/10/03 09:35:31 >> Get all menu
+2019/10/03 09:35:31 >> File created
+2019/10/03 09:35:38 >> Upload pdf
+2019/10/03 09:35:38 >> File created
+2019/10/03 09:35:38 >> Get all menu
+2019/10/03 09:36:11 >> Get all menu
+2019/10/03 09:36:16 >> Upload pdf
+2019/10/03 09:36:17 >> Parse PDF avvenuto con successo
+2019/10/03 09:36:17 >> File created
+2019/10/03 09:36:17 >> Get all menu
+2019/10/03 09:36:17 >> Inserted Menu into MongoDB
+2019/10/03 09:36:20 >> Upload pdf
+2019/10/03 09:36:20 >> Get all menu
+2019/10/03 09:36:20 >> File created
+2019/10/03 09:36:34 >> Get all menu
+2019/10/03 09:36:37 >> Upload pdf
+2019/10/03 09:36:37 >> Get all menu
+2019/10/03 09:36:37 >> File created
+2019/10/03 09:37:35 >> Get all menu
+2019/10/03 09:37:41 >> Upload pdf
+2019/10/03 09:37:41 >> Parse PDF avvenuto con successo
+2019/10/03 09:37:41 >> Get all menu
+2019/10/03 09:37:41 >> File created
+2019/10/03 09:37:41 >> Inserted Menu into MongoDB
+2019/10/03 09:37:45 >> Upload pdf
+2019/10/03 09:37:45 >> Get all menu
+2019/10/03 09:37:45 >> File created
+2019/10/03 09:38:42 >> Upload pdf
+2019/10/03 09:38:42 >> File created
+2019/10/03 09:38:42 >> Get all menu
+2019/10/03 09:39:40 >> Get all menu
+2019/10/03 09:39:44 >> Get all menu
+2019/10/03 09:39:47 >> Upload pdf
+2019/10/03 09:39:47 >> Parse PDF avvenuto con successo
+2019/10/03 09:39:47 >> File created
+2019/10/03 09:39:47 >> Get all menu
+2019/10/03 09:39:47 >> Inserted Menu into MongoDB
+2019/10/03 09:39:52 >> Upload pdf
+2019/10/03 09:39:52 >> Get all menu
+2019/10/03 09:39:52 >> File created
+2019/10/03 09:41:23 >> Get all menu
+2019/10/03 09:41:26 >> Upload pdf
+2019/10/03 09:41:27 >> Get all menu
+2019/10/03 09:41:27 >> Parse PDF avvenuto con successo
+2019/10/03 09:41:27 >> File created
+2019/10/03 09:41:27 >> Inserted Menu into MongoDB
+2019/10/03 09:41:31 >> Upload pdf
+2019/10/03 09:41:31 >> File created
+2019/10/03 09:41:31 >> Get all menu
+2019/10/03 09:42:20 >> Get all menu
+2019/10/03 09:42:24 >> Upload pdf
+2019/10/03 09:42:24 >> Get all menu
+2019/10/03 09:42:24 >> Parse PDF avvenuto con successo
+2019/10/03 09:42:24 >> File created
+2019/10/03 09:42:24 >> Inserted Menu into MongoDB
+2019/10/03 09:42:28 >> Upload pdf
+2019/10/03 09:42:28 >> File created
+2019/10/03 09:42:28 >> Get all menu
+2019/10/03 09:43:34 >> Get all menu
+2019/10/03 09:43:38 >> Get all menu
+2019/10/03 09:43:47 >> Upload pdf
+2019/10/03 09:43:47 >> Parse PDF avvenuto con successo
+2019/10/03 09:43:47 >> Get all menu
+2019/10/03 09:43:47 >> Inserted Menu into MongoDB
+2019/10/03 09:43:47 >> File created
+2019/10/03 09:43:51 >> Upload pdf
+2019/10/03 09:43:51 >> Get all menu
+2019/10/03 09:43:51 >> File created
+2019/10/03 09:45:06 >> Get all menu
+2019/10/03 09:45:10 >> Upload pdf
+2019/10/03 09:45:10 >> Get all menu
+2019/10/03 09:45:10 >> Parse PDF avvenuto con successo
+2019/10/03 09:45:10 >> Inserted Menu into MongoDB
+2019/10/03 09:45:10 >> File created
+2019/10/03 09:45:15 >> Upload pdf
+2019/10/03 09:45:15 >> File created
+2019/10/03 09:45:15 >> Get all menu
+2019/10/03 09:46:13 >> Get all menu
+2019/10/03 09:46:17 >> Upload pdf
+2019/10/03 09:46:17 >> Get all menu
+2019/10/03 09:46:17 >> Parse PDF avvenuto con successo
+2019/10/03 09:46:17 >> File created
+2019/10/03 09:46:17 >> Inserted Menu into MongoDB
+2019/10/03 09:46:21 >> Upload pdf
+2019/10/03 09:46:21 >> File created
+2019/10/03 09:46:21 >> Get all menu
+2019/10/03 09:46:31 >> Get all menu
+2019/10/03 09:48:45 >> Get all menu
+2019/10/03 09:48:48 >> Upload pdf
+2019/10/03 09:48:48 >> Get all menu
+2019/10/03 09:48:48 >> Parse PDF avvenuto con successo
+2019/10/03 09:48:48 >> Inserted Menu into MongoDB
+2019/10/03 09:48:48 >> File created
+2019/10/03 09:48:51 >> Upload pdf
+2019/10/03 09:48:51 >> File created
+2019/10/03 09:48:51 >> Get all menu
+2019/10/03 09:49:59 >> Get all menu
+2019/10/03 09:50:01 >> Upload pdf
+2019/10/03 09:50:02 >> Get all menu
+2019/10/03 09:50:02 >> Parse PDF avvenuto con successo
+2019/10/03 09:50:02 >> Inserted Menu into MongoDB
+2019/10/03 09:50:02 >> File created
+2019/10/03 09:50:12 >> Upload pdf
+2019/10/03 09:50:13 >> Parse PDF avvenuto con successo
+2019/10/03 09:50:13 >> Parse PDF avvenuto con successo
+2019/10/03 09:50:13 >> Inserted Menu into MongoDB
+2019/10/03 09:50:13 >> Get all menu
+2019/10/03 09:50:13 >> File created
+2019/10/03 09:51:21 >> Get all menu
+2019/10/03 09:51:25 >> Upload pdf
+2019/10/03 09:54:33 >> Get all menu
+2019/10/03 09:54:40 >> Get all menu
+2019/10/03 09:54:53 >> Upload pdf
+2019/10/03 09:54:53 >> File created
+2019/10/03 09:54:53 >> Get all menu
+2019/10/03 09:55:36 >> Upload pdf
+2019/10/03 09:55:36 >> File created
+2019/10/03 09:55:36 >> Get all menu
+2019/10/03 09:56:46 >> Upload pdf
+2019/10/03 09:56:46 >> File created
+2019/10/03 09:56:46 >> Get all menu
+2019/10/03 09:57:32 >> Get all menu
+2019/10/03 09:57:34 >> Upload pdf
+2019/10/03 09:57:34 >> Inserted Menu into MongoDB
+2019/10/03 09:57:34 >> File created
+2019/10/03 09:57:34 >> Get all menu
+2019/10/03 09:57:38 >> Upload pdf
+2019/10/03 09:57:38 >> Inserted Menu into MongoDB
+2019/10/03 09:57:38 >> File created
+2019/10/03 09:57:38 >> Get all menu
+2019/10/03 09:57:44 >> Upload pdf
+2019/10/03 09:57:44 >> Inserted Menu into MongoDB
+2019/10/03 09:57:44 >> File created
+2019/10/03 09:57:44 >> Get all menu
+2019/10/03 10:01:51 >> Get all menu
+2019/10/03 10:08:52 >> Get all menu
+2019/10/03 10:25:07 >> Get all menu
+2019/10/03 10:25:58 >> Get all menu
+2019/10/03 10:27:21 >> Get all menu
+2019/10/03 10:28:12 >> Get all menu
+2019/10/03 10:30:04 >> Get all menu
+2019/10/03 10:30:09 >> Get all menu
+2019/10/03 10:30:28 >> Get all menu
+2019/10/03 10:31:18 >> Get all menu
+2019/10/03 10:33:34 >> Get all menu
+2019/10/03 10:34:26 >> Get all menu
+2019/10/03 10:35:10 >> Get all menu
+2019/10/03 10:35:16 >> Get all menu
+2019/10/03 10:36:29 >> Get all menu
+2019/10/03 10:36:35 >> Get all menu
+2019/10/03 10:37:06 >> Get all menu
+2019/10/03 10:38:18 >> Get all menu
+2019/10/03 10:42:04 >> Get all menu
+2019/10/03 10:43:48 >> Get all menu
+2019/10/03 10:43:49 >> Seleziona scelta
+2019/10/03 10:45:02 >> Get all menu
+2019/10/03 10:45:04 >> Seleziona scelta
+2019/10/03 10:45:16 >> Seleziona scelta
+2019/10/03 10:46:39 >> Get all menu
+2019/10/03 10:46:42 >> Upload pdf
+2019/10/03 10:46:42 >> Inserted Menu into MongoDB
+2019/10/03 10:46:42 >> File created
+2019/10/03 10:46:42 >> Get all menu
+2019/10/03 10:46:45 >> Seleziona scelta
+2019/10/03 10:46:49 >> Seleziona scelta
+2019/10/03 10:46:58 >> Seleziona scelta
+2019/10/03 10:57:00 >> Get all menu
+2019/10/03 10:57:04 >> Upload pdf
+2019/10/03 10:57:04 >> Inserted Menu into MongoDB
+2019/10/03 10:57:04 >> File created
+2019/10/03 10:57:04 >> Get all menu
+2019/10/03 10:57:08 >> Upload pdf
+2019/10/03 10:57:08 >> Inserted Menu into MongoDB
+2019/10/03 10:57:08 >> File created
+2019/10/03 10:57:08 >> Get all menu
+2019/10/03 10:57:11 >> Seleziona scelta
+2019/10/03 10:57:14 >> Seleziona scelta
+2019/10/03 10:58:42 >> Get all menu
+2019/10/03 10:58:46 >> Get all menu
+2019/10/03 10:59:21 >> Get all menu
+2019/10/03 10:59:23 >> Seleziona scelta
+2019/10/03 10:59:25 >> Seleziona scelta
+2019/10/03 10:59:43 >> Get all menu
+2019/10/03 11:00:09 >> Get all menu
+2019/10/03 11:00:16 >> Get all menu
+2019/10/03 11:00:19 >> Seleziona scelta
+2019/10/03 11:00:55 >> Seleziona scelta
+2019/10/03 11:01:07 >> Seleziona scelta
+2019/10/03 11:01:51 >> Get all menu
+2019/10/03 11:02:21 >> Get all menu
+2019/10/03 11:02:31 >> Get all menu
+2019/10/03 11:02:33 >> Seleziona scelta
+2019/10/03 11:03:21 >> Get all menu
+2019/10/03 11:03:34 >> Get all menu
+2019/10/03 11:03:37 >> Upload pdf
+2019/10/03 11:03:37 >> Inserted Menu into MongoDB
+2019/10/03 11:03:37 >> File created
+2019/10/03 11:03:37 >> Get all menu
+2019/10/03 11:04:14 >> Get all menu
+2019/10/03 11:04:18 >> Get all menu
+2019/10/03 11:09:12 >> Get all menu
+2019/10/03 11:10:03 >> Get all menu
+2019/10/03 11:16:09 >> Get all menu
+2019/10/03 11:21:21 >> Get all menu
+2019/10/03 11:23:29 >> Get all menu
+2019/10/03 11:27:25 >> Get all menu
+2019/10/03 11:29:23 >> Get all menu
+2019/10/03 11:30:29 >> Get all menu
+2019/10/03 11:30:43 >> Get all menu
+2019/10/03 11:31:26 >> Get all menu
+2019/10/03 11:33:39 >> Get all menu
+2019/10/03 11:34:33 >> Get all menu
+2019/10/03 11:35:44 >> Get all menu
+2019/10/03 11:36:48 >> Get all menu
+2019/10/03 11:36:59 >> Get all menu
+2019/10/03 11:37:06 >> Get all menu
+2019/10/03 11:37:13 >> Get all menu
+2019/10/03 11:38:08 >> Get all menu
+2019/10/03 11:38:10 >> Get all menu
+2019/10/03 11:38:14 >> Get all menu
+2019/10/03 11:38:17 >> Seleziona scelta
+2019/10/03 11:39:05 >> Get all menu
+2019/10/03 11:39:12 >> Seleziona scelta
+2019/10/03 11:40:15 >> Get all menu
+2019/10/03 11:40:20 >> Seleziona scelta
+2019/10/03 11:40:31 >> Get all menu
+2019/10/03 11:40:35 >> Seleziona scelta
+2019/10/03 11:41:10 >> Seleziona scelta
+2019/10/03 11:41:14 >> Seleziona scelta
+2019/10/03 11:41:23 >> Get all menu
+2019/10/03 11:41:26 >> Seleziona scelta
+2019/10/03 11:43:12 >> Get all menu
+2019/10/03 11:43:26 >> Get all menu
+2019/10/03 11:44:09 >> Get all menu
+2019/10/03 11:44:12 >> Seleziona scelta
+2019/10/03 11:45:51 >> Get all menu
+2019/10/03 11:46:07 >> Get all menu
+2019/10/03 11:46:09 >> Seleziona scelta
+2019/10/03 11:46:33 >> Get all menu
+2019/10/03 11:46:35 >> Seleziona scelta
+2019/10/03 11:48:20 >> Get all menu
+2019/10/03 11:48:22 >> Get all menu
+2019/10/03 11:48:46 >> Seleziona scelta
+2019/10/03 11:48:56 >> Get all menu
+2019/10/03 11:49:18 >> Get all menu
+2019/10/03 11:49:21 >> Seleziona scelta
+2019/10/03 11:49:41 >> Get all menu
+2019/10/03 11:50:13 >> Upload pdf
+2019/10/03 11:50:13 >> Inserted Menu into MongoDB
+2019/10/03 11:50:13 >> File created
+2019/10/03 11:50:13 >> Get all menu
+2019/10/03 11:54:59 >> Get all menu
+2019/10/03 11:55:37 >> Seleziona scelta
+2019/10/03 11:55:40 >> Seleziona scelta
+2019/10/03 11:55:43 >> Seleziona scelta
+2019/10/03 11:55:50 >> Get all menu
+2019/10/03 11:56:04 >> Get all menu
+2019/10/03 11:56:09 >> Get all menu
+2019/10/03 11:56:43 >> Get all menu
+2019/10/03 12:00:30 >> Get all menu
+2019/10/03 12:00:38 >> Get all menu
+2019/10/03 12:02:27 >> Get all menu
+2019/10/03 12:02:30 >> Seleziona scelta
+2019/10/03 12:02:41 >> Seleziona scelta
+2019/10/03 12:02:43 >> Seleziona scelta
+2019/10/03 12:02:59 >> Get all menu
+2019/10/03 12:03:06 >> Seleziona scelta
+2019/10/03 12:04:20 >> Seleziona scelta
+2019/10/03 12:04:23 >> Seleziona scelta
+2019/10/03 12:10:26 >> Get all menu
+2019/10/03 12:11:56 >> Get all menu
+2019/10/03 12:12:05 >> Get all menu
+2019/10/03 12:18:19 >> Get all menu
+2019/10/03 12:19:13 >> Get all menu
+2019/10/03 12:19:19 >> Get all menu
+2019/10/03 12:19:23 >> Upload pdf
+2019/10/03 12:19:23 >> Inserted Menu into MongoDB
+2019/10/03 12:19:23 >> File created
+2019/10/03 12:19:23 >> Get all menu
+2019/10/03 12:20:10 >> Get all menu
+2019/10/03 12:20:18 >> Seleziona scelta
+2019/10/03 12:22:40 >> Get all menu
+2019/10/03 12:22:46 >> Get all menu
+2019/10/03 12:25:43 >> Get all menu
+2019/10/03 12:33:20 >> Seleziona scelta
+2019/10/03 12:33:53 >> Get all menu
+2019/10/03 12:33:55 >> Upload pdf
+2019/10/03 12:33:55 >> Inserted Menu into MongoDB
+2019/10/03 12:33:55 >> File created
+2019/10/03 12:33:55 >> Get all menu
+2019/10/03 12:33:58 >> Seleziona scelta
+2019/10/03 12:34:24 >> Seleziona scelta
+2019/10/03 12:43:46 >> Get all menu
+2019/10/03 12:43:50 >> Upload pdf
+2019/10/03 12:43:50 >> Inserted Menu into MongoDB
+2019/10/03 12:43:50 >> File created
+2019/10/03 12:43:50 >> Get all menu
+2019/10/03 12:43:58 >> Seleziona scelta
+2019/10/03 12:44:23 >> Seleziona scelta
+2019/10/03 12:45:01 >> Get all menu
+2019/10/03 12:45:08 >> Get all menu
+2019/10/03 12:45:11 >> Upload pdf
+2019/10/03 12:45:11 >> Inserted Menu into MongoDB
+2019/10/03 12:45:11 >> File created
+2019/10/03 12:45:11 >> Get all menu
+2019/10/03 12:45:14 >> Seleziona scelta
+2019/10/03 12:45:20 >> Seleziona scelta
+2019/10/03 12:46:12 >> Get all menu
+2019/10/03 12:46:14 >> Upload pdf
+2019/10/03 12:46:14 >> Inserted Menu into MongoDB
+2019/10/03 12:46:14 >> File created
+2019/10/03 12:46:14 >> Get all menu
+2019/10/03 12:46:18 >> Seleziona scelta
+2019/10/03 12:46:25 >> Seleziona scelta
+2019/10/03 12:47:29 >> Seleziona scelta
+2019/10/03 12:47:48 >> Seleziona scelta
+2019/10/03 12:48:06 >> Get all menu
+2019/10/03 12:48:10 >> Upload pdf
+2019/10/03 12:48:10 >> Inserted Menu into MongoDB
+2019/10/03 12:48:10 >> File created
+2019/10/03 12:48:10 >> Get all menu
+2019/10/03 12:48:14 >> Seleziona scelta
+2019/10/03 12:48:25 >> Seleziona scelta
+2019/10/03 12:49:10 >> Seleziona scelta
+2019/10/03 12:49:39 >> Seleziona scelta
+2019/10/03 12:50:18 >> Get all menu
+2019/10/03 12:50:22 >> Upload pdf
+2019/10/03 12:50:22 >> Inserted Menu into MongoDB
+2019/10/03 12:50:22 >> File created
+2019/10/03 12:50:22 >> Get all menu
+2019/10/03 12:50:25 >> Seleziona scelta
+2019/10/03 12:50:39 >> Seleziona scelta
+2019/10/03 12:51:23 >> Seleziona scelta
+2019/10/03 12:51:59 >> Get all menu
+2019/10/03 12:52:01 >> Upload pdf
+2019/10/03 12:52:01 >> Inserted Menu into MongoDB
+2019/10/03 12:52:01 >> File created
+2019/10/03 12:52:01 >> Get all menu
+2019/10/03 12:52:04 >> Seleziona scelta
+2019/10/03 12:52:17 >> Seleziona scelta
+2019/10/03 12:53:04 >> Seleziona scelta
+2019/10/03 12:53:24 >> Seleziona scelta
+2019/10/03 12:54:23 >> Get all menu
+2019/10/03 12:54:25 >> Upload pdf
+2019/10/03 12:54:26 >> Inserted Menu into MongoDB
+2019/10/03 12:54:26 >> File created
+2019/10/03 12:54:26 >> Get all menu
+2019/10/03 12:54:30 >> Seleziona scelta
+2019/10/03 12:54:38 >> Seleziona scelta
+2019/10/03 12:55:14 >> Get all menu
+2019/10/03 12:55:18 >> Get all menu
+2019/10/03 12:55:21 >> Upload pdf
+2019/10/03 12:55:21 >> Inserted Menu into MongoDB
+2019/10/03 12:55:21 >> File created
+2019/10/03 12:55:21 >> Get all menu
+2019/10/03 12:55:23 >> Seleziona scelta
+2019/10/03 12:55:26 >> Seleziona scelta
+2019/10/03 12:56:57 >> Get all menu
+2019/10/03 12:57:26 >> Get all menu
+2019/10/03 12:57:32 >> Get all menu
+2019/10/03 12:57:39 >> Get all menu
+2019/10/03 12:58:14 >> Get all menu
+2019/10/03 12:58:26 >> Get all menu
+2019/10/03 12:58:55 >> Get all menu
+2019/10/03 12:59:42 >> Get all menu
+2019/10/03 13:00:15 >> Get all menu
+2019/10/03 13:03:29 >> Get all menu
+2019/10/03 13:04:13 >> Get all menu
+2019/10/03 13:04:16 >> Get all menu
+2019/10/03 13:06:02 >> Get all menu
+2019/10/03 13:06:28 >> Get all menu
+2019/10/03 13:07:28 >> Get all menu
+2019/10/03 13:08:15 >> Get all menu
+2019/10/03 14:00:50 >> Get all menu
+2019/10/03 14:01:03 >> Tentativo Login
+2019/10/03 14:01:03 >> Login Con Successo
+2019/10/03 14:01:03 >> Get all menu
+2019/10/03 14:01:17 >> Upload pdf
+2019/10/03 14:01:17 >> Inserted Menu into MongoDB
+2019/10/03 14:01:17 >> File created
+2019/10/03 14:01:17 >> Get all menu
+2019/10/03 14:01:33 >> Seleziona scelta
+2019/10/03 14:05:24 >> Upload pdf
+2019/10/03 14:05:24 >> Inserted Menu into MongoDB
+2019/10/03 14:05:24 >> File created
+2019/10/03 14:05:24 >> Get all menu
+2019/10/03 14:07:39 >> Seleziona scelta
+2019/10/03 14:08:42 >> Get all menu
+2019/10/03 14:10:49 >> Get all menu
+2019/10/03 14:11:21 >> Get all menu
+2019/10/03 14:11:27 >> Get all menu
+2019/10/03 14:13:37 >> Get all menu
+2019/10/03 14:16:21 >> Seleziona scelta
+2019/10/03 14:17:33 >> Get all menu
+2019/10/03 14:17:39 >> Get all menu
+2019/10/03 14:17:48 >> Get all menu
+2019/10/03 14:17:51 >> Get all menu
+2019/10/03 14:18:05 >> Get all menu
+2019/10/03 14:18:13 >> Get all menu
+2019/10/03 14:18:17 >> Get all menu
+2019/10/03 14:18:25 >> Get all menu
+2019/10/03 14:18:45 >> Get all menu
+2019/10/03 14:18:52 >> Get all menu
+2019/10/03 14:18:57 >> Get all menu
+2019/10/03 14:20:09 >> Get all menu
+2019/10/03 14:20:13 >> Get all menu
+2019/10/03 14:20:46 >> Get all menu
+2019/10/03 14:21:58 >> Get all menu
+2019/10/03 14:22:16 >> Get all menu
+2019/10/03 14:22:31 >> Get all menu
+2019/10/03 14:22:35 >> Get all menu
+2019/10/03 14:22:46 >> Get all menu
+2019/10/03 14:23:02 >> Get all menu
+2019/10/03 14:23:49 >> Get all menu
+2019/10/03 14:24:37 >> Get all menu
+2019/10/03 14:24:57 >> Get all menu
+2019/10/03 14:25:11 >> Get all menu
+2019/10/03 14:25:14 >> Get all menu
+2019/10/03 14:28:15 >> Get all menu
+2019/10/03 14:28:37 >> Get all menu
+2019/10/03 14:29:40 >> Get all menu
+2019/10/03 14:29:54 >> Get all menu
+2019/10/03 14:31:26 >> Get all menu
+2019/10/03 14:31:49 >> Get all menu
+2019/10/03 14:31:53 >> Get all menu
+2019/10/03 14:31:59 >> Get all menu
+2019/10/03 14:32:15 >> Get all menu
+2019/10/03 14:32:28 >> Get all menu
+2019/10/03 14:32:37 >> Get all menu
+2019/10/03 14:33:06 >> Get all menu
+2019/10/03 14:33:20 >> Get all menu
+2019/10/03 14:34:25 >> Seleziona scelta
+2019/10/03 14:34:30 >> Seleziona scelta
+2019/10/03 14:36:14 >> Get all menu
+2019/10/03 14:36:20 >> Get all menu
+2019/10/03 14:36:44 >> Get all menu
+2019/10/03 14:36:51 >> Get all menu
+2019/10/03 14:36:57 >> Get all menu
+2019/10/03 14:37:11 >> Get all menu
+2019/10/03 14:37:23 >> Get all menu
+2019/10/03 14:37:47 >> Get all menu
+2019/10/03 14:38:34 >> Get all menu
+2019/10/03 14:38:48 >> Get all menu
+2019/10/03 14:39:02 >> Get all menu
+2019/10/03 14:39:08 >> Get all menu
+2019/10/03 14:39:52 >> Get all menu
+2019/10/03 14:40:36 >> Get all menu
+2019/10/03 14:40:46 >> Get all menu
+2019/10/03 14:41:13 >> Get all menu
+2019/10/03 14:41:32 >> Get all menu
+2019/10/03 14:41:49 >> Get all menu
+2019/10/03 14:41:56 >> Get all menu
+2019/10/03 14:42:01 >> Get all menu
+2019/10/03 14:42:05 >> Get all menu
+2019/10/03 14:42:09 >> Get all menu
+2019/10/03 14:42:15 >> Get all menu
+2019/10/03 14:42:20 >> Get all menu
+2019/10/03 14:42:41 >> Get all menu
+2019/10/03 14:43:05 >> Get all menu
+2019/10/03 14:43:23 >> Get all menu
+2019/10/03 14:43:53 >> Get all menu
+2019/10/03 14:44:03 >> Get all menu
+2019/10/03 14:44:12 >> Get all menu
+2019/10/03 14:44:44 >> Get all menu
+2019/10/03 14:45:43 >> Get all menu
+2019/10/03 14:45:57 >> Get all menu
+2019/10/03 14:46:08 >> Get all menu
+2019/10/03 14:46:46 >> Get all menu
+2019/10/03 14:47:01 >> Get all menu
+2019/10/03 14:47:09 >> Get all menu
+2019/10/03 14:47:19 >> Get all menu
+2019/10/03 14:47:41 >> Get all menu
+2019/10/03 14:48:25 >> Get all menu
+2019/10/03 14:48:44 >> Get all menu
+2019/10/03 14:48:58 >> Get all menu
+2019/10/03 14:49:10 >> Get all menu
+2019/10/03 14:49:17 >> Get all menu
+2019/10/03 14:50:32 >> Get all menu
+2019/10/03 14:50:42 >> Get all menu
+2019/10/03 14:51:28 >> Get all menu
+2019/10/03 14:51:47 >> Get all menu
+2019/10/03 14:53:02 >> Get all menu
+2019/10/03 14:53:29 >> Get all menu
+2019/10/03 14:53:43 >> Get all menu
+2019/10/03 14:54:04 >> Get all menu
+2019/10/03 14:54:09 >> Get all menu
+2019/10/03 14:54:16 >> Get all menu
+2019/10/03 14:54:23 >> Get all menu
+2019/10/03 14:54:58 >> Get all menu
+2019/10/03 14:55:03 >> Get all menu
+2019/10/03 14:55:11 >> Get all menu
+2019/10/03 14:55:15 >> Get all menu
+2019/10/03 14:55:23 >> Get all menu
+2019/10/03 14:55:43 >> Get all menu
+2019/10/03 14:56:00 >> Get all menu
+2019/10/03 14:56:09 >> Get all menu
+2019/10/03 14:57:08 >> Get all menu
+2019/10/03 14:57:23 >> Get all menu
+2019/10/03 15:01:15 >> Get all menu
+2019/10/03 15:01:41 >> Seleziona scelta
+2019/10/03 15:01:52 >> Get all menu
+2019/10/03 15:03:50 >> Get all menu
+2019/10/03 15:04:24 >> Get all menu
+2019/10/03 15:04:34 >> Get all menu
+2019/10/03 15:04:42 >> Get all menu
+2019/10/03 15:05:04 >> Get all menu
+2019/10/03 15:05:39 >> Get all menu
+2019/10/03 15:06:25 >> Get all menu
+2019/10/03 15:07:02 >> Get all menu
+2019/10/03 15:08:50 >> Get all menu
+2019/10/03 15:09:28 >> Get all menu
+2019/10/03 15:09:35 >> Get all menu
+2019/10/03 15:09:47 >> Get all menu
+2019/10/03 15:13:39 >> Get all menu
+2019/10/03 15:16:36 >> Get all menu
+2019/10/03 15:17:05 >> Get all menu
+2019/10/03 15:17:07 >> Get all menu
+2019/10/03 15:17:21 >> Get all menu
+2019/10/03 15:17:27 >> Get all menu
+2019/10/03 15:17:45 >> Get all menu
+2019/10/03 15:21:20 >> Get all menu
+2019/10/03 15:21:24 >> Upload pdf
+2019/10/03 15:21:24 >> Inserted Menu into MongoDB
+2019/10/03 15:21:24 >> File created
+2019/10/03 15:21:24 >> Get all menu
+2019/10/03 15:21:28 >> Seleziona scelta
+2019/10/03 15:24:13 >> Get all menu
+2019/10/03 15:24:17 >> Seleziona scelta
+2019/10/03 15:24:50 >> Get all menu
+2019/10/03 15:24:54 >> Get all menu
+2019/10/03 15:25:43 >> Get all menu
+2019/10/03 15:25:51 >> Get all menu
+2019/10/03 15:27:35 >> Get all menu
+2019/10/03 15:28:26 >> Get all menu
+2019/10/03 15:28:52 >> Get all menu
+2019/10/03 15:29:08 >> Get all menu
+2019/10/03 15:30:10 >> Get all menu
+2019/10/03 15:30:14 >> Upload pdf
+2019/10/03 15:30:14 >> Inserted Menu into MongoDB
+2019/10/03 15:30:14 >> File created
+2019/10/03 15:30:14 >> Get all menu
+2019/10/03 15:30:18 >> Seleziona scelta
+2019/10/03 15:31:59 >> Seleziona scelta
+2019/10/03 15:32:02 >> Seleziona scelta
+2019/10/03 15:32:04 >> Get all menu
+2019/10/03 15:33:35 >> Get all menu
+2019/10/03 15:33:49 >> Get all menu
+2019/10/03 15:33:52 >> Upload pdf
+2019/10/03 15:33:52 >> Inserted Menu into MongoDB
+2019/10/03 15:33:52 >> File created
+2019/10/03 15:33:52 >> Get all menu
+2019/10/03 15:33:55 >> Seleziona scelta
+2019/10/03 15:33:59 >> Get all menu
+2019/10/03 15:34:48 >> Get all menu
+2019/10/03 15:34:50 >> Upload pdf
+2019/10/03 15:34:50 >> Inserted Menu into MongoDB
+2019/10/03 15:34:50 >> File created
+2019/10/03 15:34:50 >> Get all menu
+2019/10/03 15:34:54 >> Seleziona scelta
+2019/10/03 15:34:56 >> Get all menu
+2019/10/03 15:35:06 >> Get all menu
+2019/10/03 15:35:16 >> Get all menu
+2019/10/03 15:35:55 >> Get all menu
+2019/10/03 15:36:14 >> Get all menu
+2019/10/03 15:37:16 >> Get all menu
+2019/10/03 15:37:23 >> Get all menu
+2019/10/03 15:38:05 >> Get all menu
+2019/10/03 15:38:36 >> Get all menu
+2019/10/03 15:38:45 >> Get all menu
+2019/10/03 15:38:54 >> Get all menu
+2019/10/03 15:39:23 >> Seleziona scelta
+2019/10/03 15:39:36 >> Get all menu
+2019/10/03 15:46:15 >> Get all menu
+2019/10/03 15:46:41 >> Get all menu
+2019/10/03 15:49:20 >> Get all menu
+2019/10/03 15:53:59 >> Get all menu
+2019/10/03 15:54:11 >> Get all menu
+2019/10/03 15:55:29 >> Get all menu
+2019/10/03 15:57:23 >> Seleziona scelta
+2019/10/03 15:58:30 >> Get all menu
+2019/10/03 15:58:36 >> Seleziona scelta
+2019/10/03 15:58:36 >> Get all menu
+2019/10/03 15:58:45 >> Seleziona scelta
+2019/10/03 15:58:45 >> Get all menu
+2019/10/03 15:58:55 >> Get all menu
+2019/10/03 15:59:01 >> Seleziona scelta
+2019/10/03 15:59:01 >> Get all menu
+2019/10/03 15:59:23 >> Get all menu
+2019/10/03 16:00:12 >> Get all menu
+2019/10/03 16:00:22 >> Get all menu
+2019/10/03 16:00:24 >> Get all menu
+2019/10/03 16:00:47 >> Get all menu
+2019/10/03 16:04:36 >> Get all menu
+2019/10/03 16:04:40 >> Seleziona scelta
+2019/10/03 16:18:07 >> Seleziona scelta
+2019/10/03 16:22:13 >> Get all menu
+2019/10/03 16:27:38 >> Get all menu
+2019/10/03 16:27:40 >> Get all menu
+2019/10/03 16:27:50 >> Get all menu
+2019/10/03 16:28:08 >> Get all menu
+2019/10/03 16:28:10 >> Upload pdf
+2019/10/03 16:28:11 >> Inserted Menu into MongoDB
+2019/10/03 16:28:11 >> File created
+2019/10/03 16:28:11 >> Get all menu
+2019/10/03 16:28:15 >> Seleziona scelta
+2019/10/03 16:28:18 >> Get all menu
+2019/10/03 16:28:42 >> Get all menu
+2019/10/03 16:28:56 >> Get all menu
+2019/10/03 16:29:02 >> Get all menu
+2019/10/03 16:31:10 >> Get all menu
+2019/10/03 16:31:30 >> Get all menu
+2019/10/03 16:31:37 >> Get all menu
+2019/10/03 16:31:42 >> Get all menu
+2019/10/03 16:32:12 >> Get all menu
+2019/10/03 16:34:03 >> Get all menu
+2019/10/03 16:34:09 >> Get all menu
+2019/10/03 16:34:14 >> Get all menu
+2019/10/03 16:36:11 >> Get all menu
+2019/10/03 16:36:13 >> Seleziona scelta
+2019/10/03 16:37:02 >> Get all menu
+2019/10/03 16:37:16 >> Get all menu
+2019/10/03 16:37:21 >> Get all menu
+2019/10/03 16:37:30 >> Get all menu
+2019/10/03 16:37:34 >> Seleziona scelta
+2019/10/03 16:37:35 >> Get all menu
+2019/10/03 16:37:38 >> Get all menu
+2019/10/03 16:37:41 >> Get all menu
+2019/10/03 16:38:06 >> Get all menu
+2019/10/03 16:38:37 >> Get all menu
+2019/10/03 16:38:38 >> Get all menu
+2019/10/03 16:38:53 >> Get all menu
+2019/10/03 16:38:56 >> Seleziona scelta
+2019/10/03 16:38:57 >> Get all menu
+2019/10/03 16:39:00 >> Seleziona scelta
+2019/10/03 16:39:01 >> Get all menu
+2019/10/03 16:39:24 >> Get all menu
+2019/10/03 16:42:54 >> Get all menu
+2019/10/03 16:43:04 >> Get all menu
+2019/10/03 16:43:06 >> Get all menu
