@@ -2,8 +2,13 @@ const express = require("express");
 const router = express.Router();
 const bodyParser = require("body-parser");
 
-router.use(bodyParser.json({ limit: '50mb' }));
-router.use(bodyParser.urlencoded({ limit: '50mb', extended: true }));
+router.use(bodyParser.json({
+    limit: '50mb'
+}));
+router.use(bodyParser.urlencoded({
+    limit: '50mb',
+    extended: true
+}));
 
 const user = require("../../models/user_model.js");
 const menu = require("../../models/menu_model.js");
@@ -62,11 +67,21 @@ router.post('/pdf/upload', verify_method, function(req, res) {
 
     const file_path = dest_photo_path + "\\" + pdf_file_name;
 
-    user.findById(req.userId, { password: 0 }, (err, user_found) => {
-        if (err) return res.status(422).json({ ok: false, msg: "errore di validazione" });
-        if (!user_found) return res.status(422).json({ ok: false, msg: "errore di validazione" });
+    user.findById(req.userId, {
+        password: 0
+    }, (err, user_found) => {
+        if (err) return res.status(422).json({
+            ok: false,
+            msg: "errore di validazione"
+        });
+        if (!user_found) return res.status(422).json({
+            ok: false,
+            msg: "errore di validazione"
+        });
 
-        fs.writeFile(file_path + ".pdf", b64.data, { encoding: 'base64' }, (err) => {
+        fs.writeFile(file_path + ".pdf", b64.data, {
+            encoding: 'base64'
+        }, (err) => {
             logMsg('File created');
         });
 
@@ -112,17 +127,23 @@ router.get("/all", verify_method, (req, res) => {
 
     const lmt = req.headers.limit ? req.headers.limit | 0 : 50;
 
-    user.findById(req.userId, { password: 0 }, (err, user_found) => {
+    user.findById(req.userId, {
+        password: 0
+    }, (err, user_found) => {
 
         if (user_found) {
             // menu nella quale io sono presente chiaramente
-            menu.find({}, { participants: 0, _v: 0 }, (err, menus_found) => {
+            menu.find({}, {
+                    _v: 0
+                }, (err, menus_found) => {
                     return res.status(200).send({
                         ok: true,
                         data: menus_found
                     });
                 }).limit(lmt)
-                .sort({ inserted_on: -1 });
+                .sort({
+                    inserted_on: -1
+                });
         }
     });
 
@@ -131,8 +152,13 @@ router.get("/all", verify_method, (req, res) => {
 router.post("/choice", verify_method, (req, res) => {
     logMsg('Seleziona scelta');
 
-    let { idMenu, plate } = req.body;
-    user.findById(req.userId, { password: 0 }, (err, user_found) => {
+    let {
+        idMenu,
+        plate
+    } = req.body;
+    user.findById(req.userId, {
+        password: 0
+    }, (err, user_found) => {
 
         if (user_found) {
             menu.findById(idMenu, (err, menu_found) => {
@@ -142,12 +168,19 @@ router.post("/choice", verify_method, (req, res) => {
                     //controllo più accurato namePlate
                     let same_user_same_plate = trovaPreOrdine(user_found.email, plate.name, menu_found);
 
-                    const choise_to_insert = { user: { surname: user_found.surname, name: user_found.name, email: user_found.email, _id: user_found._id }, plate: plate };
+                    const choise_to_insert = {
+                        user: {
+                            surname: user_found.surname,
+                            name: user_found.name,
+                            email: user_found.email,
+                            _id: user_found._id
+                        },
+                        plate: plate
+                    };
 
                     if (same_user_same_plate == -1) {
                         menu_found.participants.push(choise_to_insert);
                     } else {
-                        console.log(same_user_same_plate);
                         menu_found.participants[same_user_same_plate] = choise_to_insert;
                     }
 
@@ -168,30 +201,136 @@ router.post("/choice", verify_method, (req, res) => {
     });
 });
 
+router.post("/choice/delete", verify_method, (req, res) => {
+    logMsg('Seleziona scelta');
+
+    let {
+        idMenu,
+        indexOfPartecipantChoice
+    } = req.body;
+    user.findById(req.userId, {
+        password: 0
+    }, (err, user_found) => {
+
+        if (user_found) {
+            menu.findById(idMenu, (err, menu_found) => {
+
+                let msg_response = {
+                    msg: "Menu non trovato!",
+                    ok: false
+                };
+
+
+                if (menu_found) {
+
+                    if (indexOfPartecipantChoice >= 0 && indexOfPartecipantChoice < menu_found.participants.length) {
+                        msg_response.msg = "Puoi eliminare solo i piatti da te selezionati!"
+
+                        if (menu_found.participants[indexOfPartecipantChoice].user._id.toString() ==
+                            user_found._id.toString()) {
+                            msg_response = "Rimozione effettuata con successo!";
+                            msg_response.ok = true;
+
+                            logMsg("Rimozione di " + menu_found.participants[indexOfPartecipantChoice].plate.name + " da parte di " + user_found.name);
+                            menu_found.participants.splice(indexOfPartecipantChoice, 1);
+                        }
+                    }
+
+                }
+
+                menu_found.save(() => {
+                    return res.status(200).send(msg_response);
+                });
+
+            });
+        } else {
+            return res.status(200).send({
+                ok: false,
+                msg: "Errore di autenticazione"
+            });
+        }
+    });
+});
+
 router.post("/choice/all", verify_method, (req, res) => {
     logMsg('Get all menu');
 
     const idMenu = req.body.idMenu;
 
-    user.findById(req.userId, { password: 0 }, (err, user_found) => {
+    user.findById(req.userId, {
+        password: 0
+    }, (err, user_found) => {
         if (user_found) {
             menu.findById(idMenu, (err, menus_found) => {
                 let participants = menus_found.participants;
 
                 //OCCHIO ALL'ID
                 //fixxa qui
+                // var filteredParticipants = participants.filter((part, index, arr) => {
+                //     return part.user._id.toString() == user_found._id.toString();
+                // });
 
                 return res.status(200).send({
                     ok: true,
-                    data: participants
+                    data: participants,
+                    userMadeRequest: user_found._id
                 });
             });
 
+        } else {
+            return res.status(200).send({
+                ok: true,
+                msg: "Errore di autenticazione",
+                userMadeRequest: null
+            });
         }
     });
 
 });
 
+router.post("/choice/delete", verify_method, (req, res) => {
+    logMsg('Get all menu');
+
+    const idMenu = req.body.idMenu;
+    const indexParticipants = req.body.indexParticipants;
+
+    user.findById(req.userId, {
+        password: 0
+    }, (err, user_found) => {
+        if (user_found) {
+            menu.findById(idMenu, (err, menus_found) => {
+
+
+                if (menus_found.participants[indexParticipants].user._id == user_found._id) {
+                    menus_found.participants.splice(indexParticipants, 1);
+
+                    menus_found.save(() => {
+                        return res.status(200).send({
+                            ok: true,
+                            data: participants,
+                            msg: "Eliminazione eseguita con successo"
+                        });
+                    });
+
+                } else {
+                    return res.status(200).send({
+                        ok: false,
+                        msg: "Azione non consentita, non puoi eliminare scelte altrui"
+                    });
+                }
+
+
+            });
+
+        } else {
+            return res.status(200).send({
+                ok: true,
+                msg: "Errore di autenticazione"
+            });
+        }
+    });
+
+});
 
 function trovaPreOrdine(email, nomePiatto, menu_found) {
 
@@ -199,9 +338,10 @@ function trovaPreOrdine(email, nomePiatto, menu_found) {
 
         let participant = menu_found.participants[i];
 
-        console.log(participant.user.email + " != " + email + " && " + participant.plate.name + " != " + nomePiatto);
+        //console.log(participant.user.email + " != " + email + " && " + participant.plate.name + " != " + nomePiatto);
 
         if (participant.user.email == email && participant.plate.name.trim() == nomePiatto.trim()) {
+            logMsg("Rimpiazzo piatto scelto in precedenza!");
             return i;
         }
 
@@ -236,7 +376,9 @@ function extractFromPDF(stng) {
 
                 if (prod_name.includes("con")) {
                     let ingredienti = prod_name.substring(prod_name.indexOf("con") + "con".length + 1, prod_name.length).split(/ e |,/);
-                    ingredienti.forEach(ing => { ing = ing.trim(); });
+                    ingredienti.forEach(ing => {
+                        ing = ing.trim();
+                    });
 
                     buildArr.push({
                         name: prod_name.substring(0, prod_name.indexOf("con")),

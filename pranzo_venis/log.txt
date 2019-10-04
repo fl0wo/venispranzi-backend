@@ -4293,3 +4293,563 @@
 2019/10/03 16:42:54 >> Get all menu
 2019/10/03 16:43:04 >> Get all menu
 2019/10/03 16:43:06 >> Get all menu
+2019/10/04 08:39:15 >> Get all menu
+2019/10/04 08:39:28 >> Seleziona scelta
+2019/10/04 08:39:28 >> Rimpiazzo piatto scelto in precedenza!
+2019/10/04 08:39:30 >> Seleziona scelta
+2019/10/04 08:39:30 >> Rimpiazzo piatto scelto in precedenza!
+2019/10/04 08:39:46 >> Seleziona scelta
+2019/10/04 08:39:46 >> Rimpiazzo piatto scelto in precedenza!
+2019/10/04 08:39:49 >> Get all menu
+2019/10/04 08:39:53 >> Get all menu
+2019/10/04 08:39:55 >> Get all menu
+2019/10/04 08:40:55 >> Get all menu
+2019/10/04 08:40:58 >> Get all menu
+2019/10/04 08:40:58 >> Get all menu
+2019/10/04 08:41:48 >> Get all menu
+2019/10/04 08:42:13 >> Get all menu
+2019/10/04 08:42:37 >> Get all menu
+2019/10/04 08:42:49 >> Get all menu
+2019/10/04 08:43:04 >> Get all menu
+2019/10/04 08:44:13 >> Get all menu
+2019/10/04 08:47:51 >> Get all menu
+2019/10/04 08:48:02 >> Get all menu
+2019/10/04 08:48:18 >> Get all menu
+2019/10/04 08:48:30 >> Get all menu
+2019/10/04 08:48:46 >> Get all menu
+2019/10/04 08:48:59 >> Get all menu
+2019/10/04 08:49:19 >> Get all menu
+2019/10/04 08:49:34 >> Get all menu
+2019/10/04 08:49:40 >> Get all menu
+2019/10/04 08:50:43 >> Get all menu
+2019/10/04 08:51:20 >> Get all menu
+2019/10/04 08:53:31 >> Get all menu
+2019/10/04 08:53:50 >> Get all menu
+2019/10/04 08:54:17 >> Get all menu
+2019/10/04 08:54:32 >> Get all menu
+2019/10/04 08:54:36 >> Get all menu
+2019/10/04 08:54:58 >> Tentativo Login
+2019/10/04 08:54:58 >> Login Con Successo
+2019/10/04 08:54:58 >> Get all menu
+2019/10/04 08:55:03 >> Get all menu
+2019/10/04 08:55:08 >> Seleziona scelta
+2019/10/04 08:55:09 >> Get all menu
+2019/10/04 08:56:43 >> Get all menu
+2019/10/04 09:00:49 >> Get all menu
+2019/10/04 09:00:50 >> Get all menu
+2019/10/04 09:01:43 >> Get all menu
+2019/10/04 09:01:45 >> Get all menu
+2019/10/04 09:02:02 >> Get all menu
+2019/10/04 09:02:03 >> Get all menu
+2019/10/04 09:02:25 >> Get all menu
+2019/10/04 09:02:26 >> Get all menu
+2019/10/04 09:02:49 >> Get all menu
+2019/10/04 09:02:50 >> Get all menu
+2019/10/04 09:03:07 >> Get all menu
+2019/10/04 09:03:08 >> Get all menu
+2019/10/04 09:04:08 >> Get all menu
+2019/10/04 09:04:08 >> Get all menu
+2019/10/04 09:05:51 >> Get all menu
+2019/10/04 09:05:52 >> Get all menu
+2019/10/04 09:06:17 >> Get all menu
+2019/10/04 09:06:18 >> Get all menu
+2019/10/04 09:06:47 >> Get all menu
+2019/10/04 09:06:48 >> Get all menu
+2019/10/04 09:07:22 >> Get all menu
+2019/10/04 09:07:25 >> Get all menu
+2019/10/04 09:07:56 >> Get all menu
+2019/10/04 09:07:57 >> Get all menu
+2019/10/04 09:09:43 >> Get all menu
+2019/10/04 09:09:45 >> Get all menu
+2019/10/04 09:10:01 >> Get all menu
+2019/10/04 09:10:11 >> Get all menu
+2019/10/04 09:10:18 >> Get all menu
+2019/10/04 09:10:29 >> Get all menu
+2019/10/04 09:10:46 >> Get all menu
+2019/10/04 09:10:48 >> Get all menu
+2019/10/04 09:11:26 >> Get all menu
+2019/10/04 09:11:27 >> Get all menu
+2019/10/04 09:11:37 >> Get all menu
+2019/10/04 09:11:39 >> Get all menu
+2019/10/04 09:12:34 >> Get all menu
+2019/10/04 09:12:35 >> Get all menu
+2019/10/04 09:12:57 >> Get all menu
+2019/10/04 09:12:58 >> Get all menu
+2019/10/04 09:19:18 >> Get all menu
+2019/10/04 09:19:30 >> Get all menu
+2019/10/04 09:19:32 >> Get all menu
+2019/10/04 09:20:27 >> Get all menu
+2019/10/04 09:20:28 >> Get all menu
+2019/10/04 09:25:50 >> Get all menu
+2019/10/04 09:26:49 >> Get all menu
+2019/10/04 09:26:50 >> Get all menu
+2019/10/04 09:29:40 >> Get all menu
+2019/10/04 09:29:41 >> Get all menu
+2019/10/04 09:29:53 >> Get all menu
+2019/10/04 09:29:54 >> Get all menu
+2019/10/04 09:30:25 >> Get all menu
+2019/10/04 09:30:30 >> Get all menu
+2019/10/04 09:30:32 >> Get all menu
+2019/10/04 09:31:31 >> Get all menu
+2019/10/04 09:32:47 >> Get all menu
+2019/10/04 09:32:54 >> Get all menu
+2019/10/04 09:32:55 >> Get all menu
+2019/10/04 09:33:55 >> Get all menu
+2019/10/04 09:33:59 >> Get all menu
+2019/10/04 09:34:51 >> Get all menu
+2019/10/04 09:34:52 >> Get all menu
+2019/10/04 09:35:20 >> Get all menu
+2019/10/04 09:35:21 >> Get all menu
+2019/10/04 09:35:43 >> Get all menu
+2019/10/04 09:35:44 >> Get all menu
+2019/10/04 09:35:51 >> Get all menu
+2019/10/04 09:37:02 >> Get all menu
+2019/10/04 09:37:21 >> Get all menu
+2019/10/04 09:37:32 >> Get all menu
+2019/10/04 09:37:38 >> Get all menu
+2019/10/04 09:40:26 >> Get all menu
+2019/10/04 09:43:08 >> Get all menu
+2019/10/04 09:43:18 >> Get all menu
+2019/10/04 09:43:23 >> Seleziona scelta
+2019/10/04 09:44:29 >> Get all menu
+2019/10/04 09:44:39 >> Get all menu
+2019/10/04 09:48:11 >> Get all menu
+2019/10/04 09:52:16 >> Get all menu
+2019/10/04 09:52:34 >> Get all menu
+2019/10/04 09:52:54 >> Get all menu
+2019/10/04 09:52:55 >> Get all menu
+2019/10/04 09:53:25 >> Get all menu
+2019/10/04 09:53:26 >> Get all menu
+2019/10/04 09:54:11 >> Get all menu
+2019/10/04 09:55:50 >> Get all menu
+2019/10/04 10:03:13 >> Get all menu
+2019/10/04 10:03:32 >> Get all menu
+2019/10/04 10:05:07 >> Get all menu
+2019/10/04 10:10:56 >> Get all menu
+2019/10/04 10:11:06 >> Get all menu
+2019/10/04 10:11:37 >> Get all menu
+2019/10/04 10:11:46 >> Get all menu
+2019/10/04 10:17:42 >> Get all menu
+2019/10/04 10:18:31 >> Get all menu
+2019/10/04 10:18:43 >> Get all menu
+2019/10/04 10:19:28 >> Get all menu
+2019/10/04 10:19:38 >> Get all menu
+2019/10/04 10:19:50 >> Get all menu
+2019/10/04 10:19:54 >> Get all menu
+2019/10/04 10:20:45 >> Get all menu
+2019/10/04 10:22:12 >> Get all menu
+2019/10/04 10:22:27 >> Get all menu
+2019/10/04 10:23:48 >> Get all menu
+2019/10/04 10:24:00 >> Get all menu
+2019/10/04 10:28:45 >> Get all menu
+2019/10/04 10:29:24 >> Get all menu
+2019/10/04 10:29:34 >> Get all menu
+2019/10/04 10:37:16 >> Get all menu
+2019/10/04 10:37:22 >> Get all menu
+2019/10/04 10:37:35 >> Get all menu
+2019/10/04 10:37:41 >> Get all menu
+2019/10/04 10:37:44 >> Get all menu
+2019/10/04 10:38:18 >> Get all menu
+2019/10/04 10:38:30 >> Get all menu
+2019/10/04 10:38:36 >> Get all menu
+2019/10/04 10:38:43 >> Get all menu
+2019/10/04 10:38:46 >> Get all menu
+2019/10/04 10:39:26 >> Get all menu
+2019/10/04 10:39:30 >> Get all menu
+2019/10/04 10:39:43 >> Get all menu
+2019/10/04 10:39:56 >> Get all menu
+2019/10/04 10:40:22 >> Get all menu
+2019/10/04 10:40:47 >> Get all menu
+2019/10/04 10:41:05 >> Get all menu
+2019/10/04 10:41:07 >> Get all menu
+2019/10/04 10:41:12 >> Seleziona scelta
+2019/10/04 10:41:12 >> Rimpiazzo piatto scelto in precedenza!
+2019/10/04 10:41:18 >> Get all menu
+2019/10/04 10:41:23 >> Get all menu
+2019/10/04 10:42:29 >> Get all menu
+2019/10/04 10:42:40 >> Get all menu
+2019/10/04 10:43:54 >> Get all menu
+2019/10/04 10:44:05 >> Get all menu
+2019/10/04 10:45:38 >> Get all menu
+2019/10/04 10:45:44 >> Get all menu
+2019/10/04 11:00:46 >> Get all menu
+2019/10/04 11:01:02 >> Get all menu
+2019/10/04 11:01:18 >> Upload pdf
+2019/10/04 11:01:18 >> Inserted Menu into MongoDB
+2019/10/04 11:01:18 >> File created
+2019/10/04 11:01:18 >> Get all menu
+2019/10/04 11:02:03 >> Tentativo Login
+2019/10/04 11:02:03 >> Login Con Successo
+2019/10/04 11:02:04 >> Get all menu
+2019/10/04 11:02:10 >> Seleziona scelta
+2019/10/04 11:02:11 >> Get all menu
+2019/10/04 11:02:26 >> Tentativo Login
+2019/10/04 11:02:26 >> Login Con Successo
+2019/10/04 11:02:27 >> Get all menu
+2019/10/04 11:02:30 >> Seleziona scelta
+2019/10/04 11:02:31 >> Get all menu
+2019/10/04 11:03:55 >> Get all menu
+2019/10/04 11:03:59 >> Get all menu
+2019/10/04 11:44:07 >> Get all menu
+2019/10/04 11:46:37 >> Tentativo Login
+2019/10/04 11:46:37 >> Login Con Successo
+2019/10/04 11:46:37 >> Get all menu
+2019/10/04 11:46:50 >> Tentativo Login
+2019/10/04 11:46:50 >> Login Con Successo
+2019/10/04 11:46:50 >> Get all menu
+2019/10/04 11:46:54 >> Get all menu
+2019/10/04 11:47:04 >> Get all menu
+2019/10/04 11:54:23 >> Get all menu
+2019/10/04 11:54:36 >> Tentativo Login
+2019/10/04 11:54:36 >> Login Con Successo
+2019/10/04 11:54:36 >> Get all menu
+2019/10/04 11:54:38 >> Get all menu
+2019/10/04 11:54:44 >> Seleziona scelta
+2019/10/04 11:54:44 >> Rimpiazzo piatto scelto in precedenza!
+2019/10/04 11:54:45 >> Get all menu
+2019/10/04 11:54:52 >> Get all menu
+2019/10/04 11:55:17 >> Get all menu
+2019/10/04 11:55:19 >> Get all menu
+2019/10/04 11:55:28 >> Seleziona scelta
+2019/10/04 11:55:28 >> Rimpiazzo piatto scelto in precedenza!
+2019/10/04 11:55:29 >> Get all menu
+2019/10/04 12:04:09 >> Get all menu
+2019/10/04 12:04:33 >> Get all menu
+2019/10/04 12:04:41 >> Get all menu
+2019/10/04 12:04:42 >> Get all menu
+2019/10/04 12:04:50 >> Seleziona scelta
+2019/10/04 12:04:50 >> Rimpiazzo piatto scelto in precedenza!
+2019/10/04 12:04:53 >> Get all menu
+2019/10/04 12:05:14 >> Get all menu
+2019/10/04 12:06:04 >> Get all menu
+2019/10/04 12:06:08 >> Get all menu
+2019/10/04 12:06:19 >> Get all menu
+2019/10/04 12:06:43 >> Get all menu
+2019/10/04 12:07:31 >> Get all menu
+2019/10/04 12:08:38 >> Get all menu
+2019/10/04 12:09:03 >> Get all menu
+2019/10/04 12:12:46 >> Get all menu
+2019/10/04 12:13:22 >> Get all menu
+2019/10/04 12:13:32 >> Get all menu
+2019/10/04 12:16:21 >> Get all menu
+2019/10/04 12:16:28 >> Get all menu
+2019/10/04 12:17:35 >> Get all menu
+2019/10/04 12:19:25 >> Get all menu
+2019/10/04 12:20:13 >> Get all menu
+2019/10/04 12:20:21 >> Seleziona scelta
+2019/10/04 12:20:28 >> Seleziona scelta
+2019/10/04 12:20:28 >> Rimpiazzo piatto scelto in precedenza!
+2019/10/04 12:20:30 >> Seleziona scelta
+2019/10/04 12:20:30 >> Rimpiazzo piatto scelto in precedenza!
+2019/10/04 12:21:05 >> Get all menu
+2019/10/04 12:21:07 >> Get all menu
+2019/10/04 12:21:16 >> Get all menu
+2019/10/04 12:21:17 >> Get all menu
+2019/10/04 12:26:25 >> Get all menu
+2019/10/04 12:27:51 >> Get all menu
+2019/10/04 12:28:30 >> Get all menu
+2019/10/04 12:28:36 >> Get all menu
+2019/10/04 12:29:03 >> Get all menu
+2019/10/04 12:29:52 >> Get all menu
+2019/10/04 12:30:41 >> Get all menu
+2019/10/04 12:31:18 >> Get all menu
+2019/10/04 12:31:40 >> Get all menu
+2019/10/04 12:32:38 >> Get all menu
+2019/10/04 12:33:45 >> Get all menu
+2019/10/04 12:33:50 >> Get all menu
+2019/10/04 12:34:36 >> Get all menu
+2019/10/04 12:36:27 >> Get all menu
+2019/10/04 12:36:55 >> Get all menu
+2019/10/04 12:37:08 >> Seleziona scelta
+2019/10/04 12:37:11 >> Get all menu
+2019/10/04 12:37:58 >> Seleziona scelta
+2019/10/04 12:37:58 >> Rimpiazzo piatto scelto in precedenza!
+2019/10/04 12:39:49 >> Get all menu
+2019/10/04 12:41:53 >> Get all menu
+2019/10/04 12:42:20 >> Get all menu
+2019/10/04 12:42:38 >> Seleziona scelta
+2019/10/04 12:43:17 >> Get all menu
+2019/10/04 12:43:31 >> Get all menu
+2019/10/04 12:43:36 >> Get all menu
+2019/10/04 12:43:48 >> Get all menu
+2019/10/04 12:43:55 >> Get all menu
+2019/10/04 12:44:48 >> Get all menu
+2019/10/04 12:45:29 >> Get all menu
+2019/10/04 12:48:14 >> Seleziona scelta
+2019/10/04 12:48:14 >> Rimpiazzo piatto scelto in precedenza!
+2019/10/04 12:48:17 >> Seleziona scelta
+2019/10/04 12:48:17 >> Rimpiazzo piatto scelto in precedenza!
+2019/10/04 12:48:22 >> Get all menu
+2019/10/04 12:48:41 >> Get all menu
+2019/10/04 12:49:56 >> Get all menu
+2019/10/04 12:50:12 >> Get all menu
+2019/10/04 12:50:14 >> Get all menu
+2019/10/04 12:50:51 >> Get all menu
+2019/10/04 12:51:37 >> Get all menu
+2019/10/04 12:53:15 >> Get all menu
+2019/10/04 12:58:54 >> Get all menu
+2019/10/04 13:00:04 >> Get all menu
+2019/10/04 13:01:11 >> Get all menu
+2019/10/04 13:01:19 >> Get all menu
+2019/10/04 13:01:39 >> Get all menu
+2019/10/04 13:02:04 >> Get all menu
+2019/10/04 13:02:37 >> Get all menu
+2019/10/04 13:03:04 >> Get all menu
+2019/10/04 13:03:39 >> Get all menu
+2019/10/04 13:04:12 >> Get all menu
+2019/10/04 13:04:28 >> Get all menu
+2019/10/04 13:04:39 >> Get all menu
+2019/10/04 13:05:08 >> Get all menu
+2019/10/04 13:05:15 >> Get all menu
+2019/10/04 13:05:49 >> Get all menu
+2019/10/04 14:06:03 >> Get all menu
+2019/10/04 14:07:28 >> Get all menu
+2019/10/04 14:08:00 >> Get all menu
+2019/10/04 14:08:23 >> Get all menu
+2019/10/04 14:08:31 >> Get all menu
+2019/10/04 14:09:16 >> Get all menu
+2019/10/04 14:09:25 >> Get all menu
+2019/10/04 14:09:36 >> Get all menu
+2019/10/04 14:10:17 >> Get all menu
+2019/10/04 14:10:31 >> Get all menu
+2019/10/04 14:10:40 >> Get all menu
+2019/10/04 14:12:00 >> Get all menu
+2019/10/04 14:12:09 >> Get all menu
+2019/10/04 14:12:18 >> Get all menu
+2019/10/04 14:12:32 >> Get all menu
+2019/10/04 14:12:35 >> Get all menu
+2019/10/04 14:13:05 >> Get all menu
+2019/10/04 14:15:01 >> Get all menu
+2019/10/04 14:15:23 >> Get all menu
+2019/10/04 14:15:56 >> Get all menu
+2019/10/04 14:16:08 >> Get all menu
+2019/10/04 14:18:45 >> Get all menu
+2019/10/04 14:18:54 >> Get all menu
+2019/10/04 14:19:05 >> Get all menu
+2019/10/04 14:19:23 >> Get all menu
+2019/10/04 14:19:42 >> Get all menu
+2019/10/04 14:19:52 >> Get all menu
+2019/10/04 14:20:27 >> Get all menu
+2019/10/04 14:20:43 >> Get all menu
+2019/10/04 14:21:32 >> Get all menu
+2019/10/04 14:21:37 >> Get all menu
+2019/10/04 14:22:39 >> Get all menu
+2019/10/04 14:22:47 >> Get all menu
+2019/10/04 14:23:44 >> Get all menu
+2019/10/04 14:25:07 >> Get all menu
+2019/10/04 14:25:12 >> Get all menu
+2019/10/04 14:25:50 >> Get all menu
+2019/10/04 14:25:59 >> Get all menu
+2019/10/04 14:26:07 >> Get all menu
+2019/10/04 14:26:19 >> Get all menu
+2019/10/04 14:28:20 >> Get all menu
+2019/10/04 14:39:37 >> Get all menu
+2019/10/04 14:40:13 >> Get all menu
+2019/10/04 14:40:22 >> Get all menu
+2019/10/04 14:40:35 >> Get all menu
+2019/10/04 14:40:44 >> Get all menu
+2019/10/04 14:41:37 >> Get all menu
+2019/10/04 14:42:01 >> Get all menu
+2019/10/04 14:42:04 >> Seleziona scelta
+2019/10/04 14:42:05 >> Rimpiazzo piatto scelto in precedenza!
+2019/10/04 14:49:17 >> Get all menu
+2019/10/04 14:49:46 >> Get all menu
+2019/10/04 14:49:46 >> Get all menu
+2019/10/04 14:50:06 >> Get all menu
+2019/10/04 14:50:07 >> Get all menu
+2019/10/04 14:51:10 >> Get all menu
+2019/10/04 14:51:30 >> Get all menu
+2019/10/04 14:51:31 >> Get all menu
+2019/10/04 14:51:39 >> Seleziona scelta
+2019/10/04 14:51:39 >> Rimpiazzo piatto scelto in precedenza!
+2019/10/04 14:51:39 >> Get all menu
+2019/10/04 14:51:47 >> Get all menu
+2019/10/04 14:51:55 >> Seleziona scelta
+2019/10/04 14:51:55 >> Rimpiazzo piatto scelto in precedenza!
+2019/10/04 14:51:56 >> Get all menu
+2019/10/04 14:52:05 >> Seleziona scelta
+2019/10/04 14:52:06 >> Get all menu
+2019/10/04 14:52:11 >> Seleziona scelta
+2019/10/04 14:52:12 >> Get all menu
+2019/10/04 14:53:05 >> Get all menu
+2019/10/04 14:53:55 >> Get all menu
+2019/10/04 14:54:20 >> Get all menu
+2019/10/04 14:54:23 >> Get all menu
+2019/10/04 14:54:30 >> Get all menu
+2019/10/04 14:54:31 >> Get all menu
+2019/10/04 14:54:35 >> Get all menu
+2019/10/04 14:55:47 >> Get all menu
+2019/10/04 14:56:27 >> Get all menu
+2019/10/04 14:56:30 >> Get all menu
+2019/10/04 14:57:48 >> Get all menu
+2019/10/04 14:58:09 >> Get all menu
+2019/10/04 14:58:21 >> Get all menu
+2019/10/04 14:58:25 >> Get all menu
+2019/10/04 15:02:32 >> Get all menu
+2019/10/04 15:04:03 >> Get all menu
+2019/10/04 15:04:04 >> Get all menu
+2019/10/04 15:11:36 >> Get all menu
+2019/10/04 15:18:34 >> Get all menu
+2019/10/04 15:19:11 >> Get all menu
+2019/10/04 15:19:33 >> Seleziona scelta
+2019/10/04 15:19:33 >> Rimpiazzo piatto scelto in precedenza!
+2019/10/04 15:20:05 >> Get all menu
+2019/10/04 15:20:06 >> Seleziona scelta
+2019/10/04 15:20:06 >> Rimpiazzo piatto scelto in precedenza!
+2019/10/04 15:20:07 >> Get all menu
+2019/10/04 15:20:09 >> Seleziona scelta
+2019/10/04 15:20:52 >> Get all menu
+2019/10/04 15:20:56 >> Seleziona scelta
+2019/10/04 15:20:56 >> Rimpiazzo piatto scelto in precedenza!
+2019/10/04 15:20:56 >> Get all menu
+2019/10/04 15:20:58 >> Seleziona scelta
+2019/10/04 15:21:00 >> Seleziona scelta
+2019/10/04 15:21:02 >> Seleziona scelta
+2019/10/04 15:21:03 >> Seleziona scelta
+2019/10/04 15:21:06 >> Seleziona scelta
+2019/10/04 15:21:09 >> Get all menu
+2019/10/04 15:21:11 >> Seleziona scelta
+2019/10/04 15:21:11 >> Seleziona scelta
+2019/10/04 15:21:11 >> Seleziona scelta
+2019/10/04 15:21:51 >> Get all menu
+2019/10/04 15:21:52 >> Get all menu
+2019/10/04 15:21:53 >> Seleziona scelta
+2019/10/04 15:23:14 >> Seleziona scelta
+2019/10/04 15:23:14 >> Rimozione di Fusilli integrali  da parte di Riccardo
+2019/10/04 15:24:51 >> Seleziona scelta
+2019/10/04 15:24:51 >> Rimozione di Pizza  da parte di Riccardo
+2019/10/04 15:25:37 >> Get all menu
+2019/10/04 15:25:38 >> Get all menu
+2019/10/04 15:25:40 >> Seleziona scelta
+2019/10/04 15:25:40 >> Rimozione di Piadina  da parte di Riccardo
+2019/10/04 15:25:42 >> Get all menu
+2019/10/04 15:25:44 >> Seleziona scelta
+2019/10/04 15:25:44 >> Rimozione di Piadina  da parte di Riccardo
+2019/10/04 15:25:51 >> Get all menu
+2019/10/04 15:25:52 >> Get all menu
+2019/10/04 15:26:54 >> Get all menu
+2019/10/04 15:26:55 >> Get all menu
+2019/10/04 15:26:56 >> Seleziona scelta
+2019/10/04 15:27:00 >> Seleziona scelta
+2019/10/04 15:27:00 >> Rimozione di Fusilli integrali  da parte di Riccardo
+2019/10/04 15:27:04 >> Get all menu
+2019/10/04 15:27:05 >> Seleziona scelta
+2019/10/04 15:27:05 >> Rimozione di Piadina  da parte di Riccardo
+2019/10/04 15:27:07 >> Get all menu
+2019/10/04 15:28:45 >> Get all menu
+2019/10/04 15:29:48 >> Get all menu
+2019/10/04 15:30:13 >> Get all menu
+2019/10/04 15:30:49 >> Get all menu
+2019/10/04 15:31:07 >> Get all menu
+2019/10/04 15:31:16 >> Get all menu
+2019/10/04 15:31:22 >> Get all menu
+2019/10/04 15:33:59 >> Get all menu
+2019/10/04 15:34:10 >> Get all menu
+2019/10/04 15:34:24 >> Get all menu
+2019/10/04 15:34:53 >> Get all menu
+2019/10/04 15:35:14 >> Get all menu
+2019/10/04 15:35:33 >> Get all menu
+2019/10/04 15:36:07 >> Seleziona scelta
+2019/10/04 15:36:08 >> Get all menu
+2019/10/04 15:37:11 >> Get all menu
+2019/10/04 15:37:13 >> Get all menu
+2019/10/04 15:37:28 >> Get all menu
+2019/10/04 15:37:29 >> Get all menu
+2019/10/04 15:37:43 >> Get all menu
+2019/10/04 15:37:45 >> Get all menu
+2019/10/04 15:37:59 >> Get all menu
+2019/10/04 15:38:00 >> Get all menu
+2019/10/04 15:38:14 >> Get all menu
+2019/10/04 15:38:16 >> Get all menu
+2019/10/04 15:38:41 >> Get all menu
+2019/10/04 15:38:42 >> Get all menu
+2019/10/04 15:38:44 >> Seleziona scelta
+2019/10/04 15:38:44 >> Rimozione di Lasagna  da parte di Riccardo
+2019/10/04 15:38:48 >> Seleziona scelta
+2019/10/04 15:38:48 >> Rimozione di Pizza  da parte di Riccardo
+2019/10/04 15:39:50 >> Get all menu
+2019/10/04 15:41:02 >> Get all menu
+2019/10/04 15:42:10 >> Get all menu
+2019/10/04 15:43:39 >> Get all menu
+2019/10/04 15:44:05 >> Get all menu
+2019/10/04 15:44:07 >> Get all menu
+2019/10/04 15:44:10 >> Get all menu
+2019/10/04 15:44:14 >> Seleziona scelta
+2019/10/04 15:44:14 >> Rimozione di Bresaola, rucola e grana da parte di Riccardo
+2019/10/04 15:44:16 >> Seleziona scelta
+2019/10/04 15:44:16 >> Rimozione di Biscotti veneziani  da parte di Riccardo
+2019/10/04 15:44:16 >> Seleziona scelta
+2019/10/04 15:44:16 >> Rimozione di Straccetti di manzo al rosmarino  da parte di Riccardo
+2019/10/04 15:44:17 >> Seleziona scelta
+2019/10/04 15:44:19 >> Seleziona scelta
+2019/10/04 15:44:25 >> Seleziona scelta
+2019/10/04 15:44:28 >> Seleziona scelta
+2019/10/04 15:44:35 >> Get all menu
+2019/10/04 15:44:44 >> Seleziona scelta
+2019/10/04 15:44:45 >> Get all menu
+2019/10/04 15:44:51 >> Seleziona scelta
+2019/10/04 15:44:51 >> Rimozione di Lasagna  da parte di Riccardo
+2019/10/04 15:44:55 >> Seleziona scelta
+2019/10/04 15:44:59 >> Get all menu
+2019/10/04 15:46:37 >> Get all menu
+2019/10/04 15:46:45 >> Get all menu
+2019/10/04 15:46:46 >> Get all menu
+2019/10/04 15:46:57 >> Seleziona scelta
+2019/10/04 15:46:58 >> Get all menu
+2019/10/04 15:47:12 >> Get all menu
+2019/10/04 15:47:12 >> Get all menu
+2019/10/04 15:51:03 >> Get all menu
+2019/10/04 15:51:17 >> Get all menu
+2019/10/04 15:51:19 >> Get all menu
+2019/10/04 15:51:38 >> Get all menu
+2019/10/04 15:51:40 >> Get all menu
+2019/10/04 15:52:38 >> Get all menu
+2019/10/04 15:52:39 >> Get all menu
+2019/10/04 15:53:29 >> Get all menu
+2019/10/04 15:53:30 >> Get all menu
+2019/10/04 15:53:47 >> Get all menu
+2019/10/04 15:53:51 >> Get all menu
+2019/10/04 15:53:53 >> Get all menu
+2019/10/04 15:54:08 >> Get all menu
+2019/10/04 15:54:18 >> Get all menu
+2019/10/04 15:54:56 >> Get all menu
+2019/10/04 15:54:59 >> Get all menu
+2019/10/04 15:55:20 >> Get all menu
+2019/10/04 15:55:21 >> Get all menu
+2019/10/04 15:55:34 >> Get all menu
+2019/10/04 15:55:35 >> Get all menu
+2019/10/04 15:55:42 >> Get all menu
+2019/10/04 15:55:42 >> Get all menu
+2019/10/04 15:56:02 >> Get all menu
+2019/10/04 15:56:09 >> Get all menu
+2019/10/04 16:12:49 >> Get all menu
+2019/10/04 16:13:02 >> Get all menu
+2019/10/04 16:13:27 >> Get all menu
+2019/10/04 16:13:30 >> Get all menu
+2019/10/04 16:13:54 >> Get all menu
+2019/10/04 16:14:10 >> Get all menu
+2019/10/04 16:14:25 >> Get all menu
+2019/10/04 16:14:28 >> Get all menu
+2019/10/04 16:14:34 >> Get all menu
+2019/10/04 16:14:59 >> Get all menu
+2019/10/04 16:15:11 >> Get all menu
+2019/10/04 16:15:22 >> Get all menu
+2019/10/04 16:15:36 >> Get all menu
+2019/10/04 16:15:51 >> Get all menu
+2019/10/04 16:15:53 >> Get all menu
+2019/10/04 16:16:03 >> Get all menu
+2019/10/04 16:19:31 >> Get all menu
+2019/10/04 16:19:53 >> Get all menu
+2019/10/04 16:20:58 >> Get all menu
+2019/10/04 16:21:04 >> Get all menu
+2019/10/04 16:24:04 >> Seleziona scelta
+2019/10/04 16:24:04 >> Rimpiazzo piatto scelto in precedenza!
+2019/10/04 16:24:54 >> Get all menu
+2019/10/04 16:25:00 >> Get all menu
+2019/10/04 16:25:45 >> Get all menu
+2019/10/04 16:25:58 >> Get all menu
+2019/10/04 16:26:17 >> Get all menu
+2019/10/04 16:27:19 >> Get all menu
+2019/10/04 16:27:43 >> Get all menu
+2019/10/04 16:28:29 >> Get all menu
+2019/10/04 16:28:40 >> Get all menu
